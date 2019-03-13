@@ -10,9 +10,9 @@ Reader XML
 -----
 The readerXML directory contains the transcription of the reconstructed text. The XML follows TEI guidelines but does not currently have TEI headers. This will be addressed in future revisions of the project.
 
-References
+Referencing
 -----
-To cite the offline transcription reconciler please use the DOI:
+To cite the Estoria transcriptions please use the DOI:
 
 License
 -----
