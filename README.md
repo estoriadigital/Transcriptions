@@ -12,7 +12,7 @@ The readerXML directory contains the transcription of the reconstructed text. Th
 
 Referencing
 -----
-To cite the Estoria transcriptions please use the DOI:
+To cite the Estoria transcriptions please use the DOI: [![DOI](https://zenodo.org/badge/175293116.svg)](https://zenodo.org/badge/latestdoi/175293116)
 
 License
 -----
