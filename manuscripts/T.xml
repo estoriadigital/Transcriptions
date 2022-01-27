@@ -1,3 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title n="T" type="document">A transcription of the Estoria de Espanna in T</title>
+<respStmt>
+<resp>Created by</resp>
+<name type="org">The Estoria de Espanna Project</name>
+</respStmt>
+<respStmt>
+<resp>Transcribed by</resp>
+<name type="person">[name]</name>
+</respStmt>
+<funder>This transcription was made as part of the "An electronic research
+environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+and Leon", which has received funding from the Arts and Humanities Research
+Council (AHRC).
+</funder>
+</titleStmt>
+<editionStmt>
+<edition n="1.1">Version 1.1, created on <date when-iso="2020-06-20">20.06.2020</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher><name type="org">The University of Birmingham</name></publisher>
+<date when-iso="2020-06-20">20.06.2020</date>
+<availability>
+<p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>T (Biblioteca de Menéndez Pelayo 550).</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc n="1.4">
+<projectDesc>
+<p>This transcription was made by the Estoria de Espanna project.</p>
+</projectDesc>
+<editorialDecl>
+<p>This transcription was prepared by the transcribers using the Textual Communities
+system at the University of Saskatchewan. This tool provided transcribers with
+the ability to work on transcriptions of individual folios whose images were
+accompanied by a transcription space. An automatic parser in the Textual
+Communities system ensured that only correctly expressed xml was entered into
+the system.
+</p>
+<p>The XML specifications used are available at <ptr target="https://blog.bham.ac.uk/estoriadigital/transcription-guidelines/"/></p>
+</editorialDecl>
+<variantEncoding method="parallel-segmentation" location="internal"/>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
 <div n="T">
 
 <pb/>
@@ -4439,7 +4492,7 @@ pos catalanos.
 
 <cb n="a"/>
 
-<lb break="no"/>/>te desto en esta estoria </ab><ab n="200"> q<am>̄</am><ex>ue</ex> pue<seg type="crammed">s</seg>
+<lb break="no"/>te desto en esta estoria </ab><ab n="200"> q<am>̄</am><ex>ue</ex> pue<seg type="crammed">s</seg>
 <lb/>q<am>̄</am><ex>ue</ex> sopo q<am>̄</am><ex>ue</ex> era muerto esse hug
 <lb break="no"/>nerigo <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex> Reynaua en su lu
 <lb break="no"/>gar su sobrino gu<am>̄</am><ex>n</ex>tamu<am>̄</am><ex>n</ex>do q<am>̄</am><ex>ue</ex>l 
@@ -14903,7 +14956,7 @@ enuiolo otra
 
 <cb n="b"/>
 
-<lb break="no"/>arios</abbr><expan>s<ex>an</ex>c<ex>t</ex>u
+<lb break="no"/>arios</abbr><expan>s<ex>an</ex>c<ex>t</ex>u <cb n="b"/>
 <lb break="no"/>arios</expan></choice> fuero<am>̄</am><ex>n</ex> destruydos. las
 <lb/>eg<am>ł</am><ex>les</ex>ias q<am>̄</am><ex>ue</ex>bra<am>̄</am><ex>n</ex>tadas. los loga
 <lb rend="hyphen" break="no"/>res oloan adios co<am>̄</am><ex>n</ex> aleg<am>ⁱ</am><ex>ri</ex>a esso
@@ -21971,7 +22024,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>g<am>ª</am><ex>ra</ex>nde <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex> se torno despues dalla. ¶ Pu
 <lb break="no"/>es q<am>̄</am><ex>ue</ex> el rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex> ouo esta batalla ue<am>̄</am><ex>n</ex>
 <lb break="no"/>çuda. tornosse <am>ꝑ</am><ex>por</ex>a leon con grant p<am>̉</am><ex>re</ex>z
-<lb/>Et con grant o<am>̄</am><ex>n</ex>rra⸫ </ab></div><div n="660" prev_n="659" corresp="#PCGcap649"><head rend="h1" n="Rubric">Capitulo .vijº.
+<lb/>Et con grant o<am>̄</am><ex>n</ex>rra⸫ </ab></div><div n="660" prev="659" corresp="#PCGcap649"><head rend="h1" n="Rubric">Capitulo .vijº.
 <lb/>De com<am>̄</am><ex>m</ex>o el rey don alfonso uen
 <lb break="no"/>çio los moros q<am>̄</am><ex>ue</ex> tenie<am>̄</am><ex>n</ex> ç<am>̉</am><ex>er</ex>cado benaue<am>̄</am><ex>n</ex>t<am>̄</am><ex>e</ex>
 <am>⁊</am><ex>e</ex> çamora.</head>
@@ -22018,7 +22071,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>tan g<am>ª</am><ex>ra</ex>nt espa<am>̄</am><ex>n</ex>to auie<am>̄</am><ex>n</ex> ya los moro<hi rend= "sup">s</hi>
 <lb/>del rey don a<am>º.</am><ex>lfonso</ex> q<am>̄</am><ex>ue</ex> por fuerça le ouiero<am>̄</am><ex>n</ex> 
 <lb/>pedir treguas. <am>⁊</am><ex>e</ex> de poner co<am>̄</am><ex>n</ex> el postu
-<lb break="no"/>ra por una g<am>ª</am><ex>ra</ex>nt sazon. </ab></div><div n="661" prev_="660"><head rend="h1" n="Rubric">Capitulo
+<lb break="no"/>ra por una g<am>ª</am><ex>ra</ex>nt sazon. </ab></div><div n="661" prev="660"><head rend="h1" n="Rubric">Capitulo
 <lb/>seteno de com<am>̄</am><ex>m</ex>o el rey don alfo<am>̄</am><ex>n</ex>so 
 <lb/>lidio co<am>̄</am><ex>n</ex> los moros <am>⁊</am><ex>e</ex> los uençio.</head>
 <note place="margin-left" resp="1">xliiij</note>
@@ -22055,7 +22108,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>rrado <am>⁊</am><ex>e</ex> co<am>̄</am><ex>n</ex> g<am>ª</am><ex>ra</ex>ndes robos <am>⁊</am><ex>e</ex> gana<am>̄</am><ex>n</ex>çias. </ab><ab n="1400">¶ 
 <lb/>En este an<am>̄</am><ex>n</ex>o murio el <am>ppª</am><ex>papa</ex> sergio. </ab><ab n="1500"><am>⁊</am><ex>e</ex> fu
 <lb break="no"/>e puesto ensu lugar leo el q<am>ª</am><ex>ua</ex>rto. </ab><ab n="1600"><am>⁊</am><ex>e</ex> 
-<lb/>fuero<am>̄</am><ex>n</ex> con el .c. <am>⁊</am><ex>e</ex> j. apostoligo⸫ </ab></div><div n="662" prev_="661"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>
+<lb/>fuero<am>̄</am><ex>n</ex> con el .c. <am>⁊</am><ex>e</ex> j. apostoligo⸫ </ab></div><div n="662" prev="661"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>
 <lb/>vijº. de com<am>̄</am><ex>m</ex>o <am>ƀ</am><ex>ber</ex>naldo mato a bueso
 <lb/><am>⁊</am><ex>e</ex> pidio al rey el padre q<am>̄</am><ex>ue</ex>l yazie p<am>̉</am><ex>re</ex>so.</head>
 <note place="margin-right" resp="1">xiv</note>
@@ -22114,7 +22167,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>do aq<am>̄</am><ex>ue</ex>llo uio no<am>̄</am><ex>n</ex> quiso <am>ſ̷</am><ex>ser</ex>uir al rey 
 <lb/>de aquel dia adela<am>̄</am><ex>n</ex>te. </ab><ab n="1600"><am>⁊</am><ex>e</ex> estido bie<am>̄</am><ex>n</ex> 
 <lb/>aç<am>̉</am><ex>er</ex>ca de un an<am>̄</am><ex>n</ex>o q<am>̄</am><ex>ue</ex> no<am>̄</am><ex>n</ex> caualgo con 
-<lb/>el gra<am>̄</am><ex>n</ex>t pessar q<am>̄</am><ex>ue</ex> auie⸫ </ab></div><div n="663" prev_="662"><head rend="h1" n="Rubric">Capitulo
+<lb/>el gra<am>̄</am><ex>n</ex>t pessar q<am>̄</am><ex>ue</ex> auie⸫ </ab></div><div n="663" prev="662"><head rend="h1" n="Rubric">Capitulo
 <lb/>xº. de com<am>̄</am><ex>m</ex>o bernaldo pidio su pad<am>ᵉ</am><ex>re</ex> 
 <lb/>al Rey <am>⁊</am><ex>e</ex> de commol çay rio los
 <lb/>seruicios q<am>̄</am><ex>ue</ex>l fiziera <am>⁊</am><ex>e</ex> lo desafio⸫</head> 
@@ -22246,7 +22299,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>Et duraro<am>̄</am><ex>n</ex> estas g<am>ᵉ</am><ex>ue</ex>rras dos an<am>̄</am><ex>n</ex>os</ab>
 <lb/><ab n="4000">¶ Mas agora dexamos aqui de 
 <lb/>fablar desto <am>⁊</am><ex>e</ex> diremos delos mo
-<lb break="no"/>ros </ab></div><div n="664" prev_="663"><head rend="h1" n="Rubric">capitulo .xj. de com<am>̄</am><ex>m</ex>o Mahomat
+<lb break="no"/>ros </ab></div><div n="664" prev="663"><head rend="h1" n="Rubric">capitulo .xj. de com<am>̄</am><ex>m</ex>o Mahomat
 <lb/>rey de cordoua uino sob<am>ᵉ</am><ex>re</ex> los de toledo</head>
 <note place="margin-left" resp="1">xlvij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados ix. an<am>̄</am><ex>n</ex>os del reg
@@ -22280,7 +22333,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>mat Rey de cordoua. </ab><ab n="1000">¶ Mas ago
 <lb break="no"/>ra dexamos aqui de fablar delos
 <lb/>moros <am>⁊</am><ex>e</ex> tornaremos acontar del
-<lb/>Rey don a<am>º</am><ex>lfonso</ex> <am>⁊</am><ex>e</ex> de bernaldo⸫ </ab></div><div n="665" prev_="664"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
+<lb/>Rey don a<am>º</am><ex>lfonso</ex> <am>⁊</am><ex>e</ex> de bernaldo⸫ </ab></div><div n="665" prev="664"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
 <lb/>xij. de com<am>̄</am><ex>m</ex>o bernaldo lidio con el 
 <lb/>poder del rey don a<am>º</am><ex>lfonso</ex>. <am>⁊</am><ex>e</ex> ue<am>̄</am><ex>n</ex>çio <am>⁊</am><ex>e</ex> poblo 
 <lb/>el castillo del carpio⸫</head> 
@@ -22486,7 +22539,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <rdg type="orig">po</rdg>
 <rdg type="mod">so</rdg>
 </app>
-<lb break="no"/>brel <am>⁊</am><ex>e</ex> el ganaualo dellos⸫ </ab></div><div n="666" prev_="665"><head rend="h1" n="Rubric">Ca
+<lb break="no"/>brel <am>⁊</am><ex>e</ex> el ganaualo dellos⸫ </ab></div><div n="666" prev="665"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>p<am>ł</am><ex>itul</ex>o .xiij. de com<am>̄</am><ex>m</ex>o <am>ƀ</am><ex>ber</ex>naldo dio al 
 <lb/>rey don alfonso el castillo del 
 <lb/>carpio <am>⁊</am><ex>e</ex> dela muerte del conde sa<am>̄</am><ex>n</ex>dias <note type="ed" resp="RPG">La última palabra de la rúbrica se escribió en el margen interno de la página</note></head>
@@ -22688,7 +22741,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>q<am>̄</am><ex>ue</ex> fallamos enlos lib<am>º</am><ex>ro</ex>s antiguos</ab>
 <lb/><ab n="7300">¶ Mas agora dexamos de fablar 
 <lb/>desto <am>⁊</am><ex>e</ex> diremos del rey don alfonso.</ab></div>
-<lb/><div n="667" prev_="666"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiiijº de com<am>̄</am><ex>m</ex>o el rey don a<am>º</am><ex>lfonso</ex>
+<lb/><div n="667" prev="666"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiiijº de com<am>̄</am><ex>m</ex>o el rey don a<am>º</am><ex>lfonso</ex>
 <lb/>çego s<am>ꝯ</am><ex>us</ex> <am>ħ</am><ex>her</ex>manos por la trayçion 
 <lb/>que quisieran fazer⸫</head>
 <note place="margin-right" resp="1">l</note>
@@ -22779,7 +22832,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><am>ꝑ</am><ex>per</ex>donolos esto<am>̄</am><ex>n</ex>çes </ab><ab n="2900"><am>⁊</am><ex>e</ex> fizo derribar 
 <lb/>los muros dela uilla si no<am>̄</am><ex>n</ex> el alca
 <lb break="no"/>çar ta<am>̄</am><ex>n</ex> solame<am>̄</am><ex>n</ex>t enq<am>̄</am><ex>ue</ex> dexo de s<am>ꝯ</am><ex>us</ex> ca
-<lb break="no"/>ua<am>łł</am><ex>ller</ex>os q<am>̄</am><ex>ue</ex>l g<am>ª</am><ex>ua</ex>rdasse<am>̄</am><ex>n</ex>⸫ </ab></div><div n="668" prev_="667"><head rend="h1" n="Rubric">Capitulo xvº
+<lb break="no"/>ua<am>łł</am><ex>ller</ex>os q<am>̄</am><ex>ue</ex>l g<am>ª</am><ex>ua</ex>rdasse<am>̄</am><ex>n</ex>⸫ </ab></div><div n="668" prev="667"><head rend="h1" n="Rubric">Capitulo xvº
 <lb/>dela muerte de mahomad rey de cordoua</head>
 <note place="margin-right" resp="1">lj</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xv an<am>̄</am><ex>n</ex>os del regna
@@ -22845,7 +22898,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>almo<am>̄</am><ex>n</ex>dar muc<am>ħ</am><ex>ho</ex> onrrada mie<am>̄</am><ex>n</ex>te e<am>̄</am><ex>n</ex>
 <lb/>cordoua. </ab><ab n="2300"><space quantity="1" unit="chars"/>Mas dexamos aqui de 
 <lb/>fablar delos moros <am>⁊</am><ex>e</ex> diremos del rey 
-<lb/>do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>. </ab></div><div n="669" prev_="668"><head rend="h1" n="Rubric">Capitulo .xvjº. delos luga
+<lb/>do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>. </ab></div><div n="669" prev="668"><head rend="h1" n="Rubric">Capitulo .xvjº. delos luga
 <lb break="no"/>res q<am>̄</am><ex>ue</ex> el rey don alfonso poblo en 
 <lb/>portogal <am>⁊</am><ex>e</ex> en castilla</head>
 <note place="margin-right" resp="1">lij</note>
@@ -22893,7 +22946,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>dio ag<am>ª</am><ex>arçia</ex> su fijo la uilla de toro </ab><ab n="1600">¶ Mas 
 <lb/>agora aq<am>ⁱ</am><ex>ui</ex> de fablar del rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex> el ma
 <lb break="no"/>gno <am>⁊</am><ex>e</ex> diremos de abdalla rey de cor
-<lb break="no"/>doua⸫ </ab></div><div n="670" prev_="669"><head rend="h1" n="Rubric">Capitulo xvijº. de com<am>̄</am><ex>m</ex>o abdal
+<lb break="no"/>doua⸫ </ab></div><div n="670" prev="669"><head rend="h1" n="Rubric">Capitulo xvijº. de com<am>̄</am><ex>m</ex>o abdal
 <lb break="no"/>la rey de cordoua ec<am>ħ</am><ex>ho</ex> de toda su <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> ao
 <lb break="no"/>mar q<am>̄</am><ex>ue</ex> se le alçara <note type="ed" resp="RPG">Esta secuencia de la rúbrica fue añadida en el margen izquierdo</note></head>
 <note place="margin-left" resp="1">liij</note>
@@ -22946,7 +22999,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>el <choice><abbr>casti<am>łł</am>o</abbr><expan>casti<ex>e</ex>llo</expan></choice> de loxa. </ab><ab n="1900">¶ Mas agora de
 <lb break="no"/>xamos aq<am>ⁱ</am><ex>ui</ex> de fablar delos moros
 <lb/><am>⁊</am><ex>e</ex> diremos del rey Don alfonso⸫</ab></div>
-<lb/><div n="671" prev_="670"><head rend="h1" n="Rubric">Capit<am>ł</am><ex>ul</ex>o xviijº del mal q<am>̄</am><ex>ue</ex> fizo el rey do<am>̄</am><ex>n</ex> 
+<lb/><div n="671" prev="670"><head rend="h1" n="Rubric">Capit<am>ł</am><ex>ul</ex>o xviijº del mal q<am>̄</am><ex>ue</ex> fizo el rey do<am>̄</am><ex>n</ex> 
 <lb/>alfonso alos moros <am>⁊</am><ex>e</ex> delas yg<am>ł</am><ex>les</ex>ias
 <lb/>que Renouo⸫</head>
 <note place="margin-right" resp="1">liiij</note>
@@ -23010,7 +23063,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 
 <lb break="no"/>rio el <am>ppª</am><ex>papa</ex> ad<am>ⁱ</am><ex>ri</ex>an. </ab><ab n="1400">¶ Et fue puesto en 
 <lb/>su lugar io<am>ħ</am><ex>ha</ex>n el vijº. <am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex>
-<lb/>v. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="672" prev_="671"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xixº. de com<am>̄</am><ex>m</ex>o el
+<lb/>v. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="672" prev="671"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xixº. de com<am>̄</am><ex>m</ex>o el
 <lb/>rey don a<am>º</am><ex>lfonso</ex> poblo çamora</head>
 <note place="margin-right" resp="1">lv</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xxxiij. an<am>̄</am><ex>n</ex>os del reg
@@ -23140,7 +23193,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>caluo </ab><ab n="4300">¶ Et enel xxxix murio loys 
 <lb/>baluo rey de fra<am>̄</am><ex>n</ex>çia. </ab><ab n="4400"><am>⁊</am><ex>e</ex> regnaro<am>̄</am><ex>n</ex> enpos 
 <lb/>el s<am>ꝯ</am><ex>us</ex> fijos loys <am>⁊</am><ex>e</ex> carlo mano q<am>̄</am><ex>ue</ex> ouie
-<lb break="no"/>ra de barragana .v. an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="673" prev_="672"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb break="no"/>ra de barragana .v. an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="673" prev="672"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>xxº delo q<am>̄</am><ex>ue</ex> enbio dez<am>̉</am><ex>ir</ex> el <choice><abbr>ap<am>ł</am>igo</abbr><expan>ap<ex>osto</ex>ligo</expan></choice> por   
 <lb/>su carta al rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex> el magno⸫</head>
 <note place="margin-right" resp="1">lvj</note>
@@ -23204,7 +23257,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><ab n="2100"><space quantity="1" unit="chars"/>Et aq<am>̄</am><ex>ue</ex>stos q<am>̄</am><ex>ue</ex> uos lleua<am>̄</am><ex>n</ex> las <choice><abbr>nr<am>̄</am>as</abbr><expan>n<ex>uest</ex>ras</expan></choice> 
 <lb/>letras q<am>̄</am><ex>ue</ex>los ayades en<choice><abbr>ur<am>̄</am>a</abbr><expan>u<ex>uest</ex>ra</expan></choice> comie<am>̄</am><ex>n</ex>
 <lb break="no"/>da </ab><ab n="2200"><am>⁊</am><ex>e</ex> de uos dios salut <am>⁊</am><ex>e</ex> bien⸫</ab></div>
-<lb/><div n="674" prev_="673"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xxjº. dotra carta q<am>̄</am><ex>ue</ex> enbio dez<am>̉</am><ex>ir</ex> 
+<lb/><div n="674" prev="673"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xxjº. dotra carta q<am>̄</am><ex>ue</ex> enbio dez<am>̉</am><ex>ir</ex> 
 <lb/>este mismo <choice><abbr>ap<am>ł</am>igo</abbr><expan>ap<ex>osto</ex>ligo</expan></choice> al rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex> con 
 <lb/>arnalt su ma<am>̄</am><ex>n</ex>dadero en<am>ł</am><ex>el</ex> mes de
 <lb/>Julio</head>
@@ -23248,7 +23301,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><am>⁊</am><ex>e</ex> log<am>ª</am><ex>ra</ex>descamos auos </ab><ab n="1200"><am>⁊</am><ex>e</ex> uos gualardo
 <lb break="no"/>nemos nos este do<am>̄</am><ex>n</ex> delas <choice><abbr>bn<am>̄</am>ones</abbr><expan>b<ex>e</ex>n<ex>dici</ex>ones</expan></choice> de 
 <lb/>sant p<am>º</am><ex>edro</ex>. </ab><ab n="1300">¶ Salut ayades mio fijo ama
-<lb break="no"/>do <am>⁊</am><ex>e</ex> muy claro rey⸫ </ab></div><div n="675" prev_="674"><head rend="h1" n="Rubric">Capitulo xxij. 
+<lb break="no"/>do <am>⁊</am><ex>e</ex> muy claro rey⸫ </ab></div><div n="675" prev="674"><head rend="h1" n="Rubric">Capitulo xxij. 
 <lb/>de com<am>̄</am><ex>m</ex>o el rey don alfonso fizo consag
 <lb break="no"/>rar la yg<am>ł</am><ex>les</ex>ia de santiago</head>
 <note place="margin-left" resp="1">lviij</note>
@@ -23312,7 +23365,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>assi com<am>̄</am><ex>m</ex>o meior podien. </ab><ab n="1100">¶ Onde en 
 <lb/>algunos libros antiguos es dicha. 
 <lb/>por aq<am>̄</am><ex>ue</ex>lla razo<am>̄</am><ex>n</ex> ouiedo la çibdat delo<hi rend= "sup">s</hi> 
-<lb/>o<am>ƀ</am><ex>bis</ex>pos⸫ </ab></div><div n="676" prev_="675"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xxiij. del co<am>̄</am><ex>n</ex>çilio q<am>̄</am><ex>ue</ex> fizo 
+<lb/>o<am>ƀ</am><ex>bis</ex>pos⸫ </ab></div><div n="676" prev="675"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xxiij. del co<am>̄</am><ex>n</ex>çilio q<am>̄</am><ex>ue</ex> fizo 
 <note place="margin-right" resp="1">lix</note>
 <lb/>el Rey don alfon<am>̄</am><ex>so</ex> enla çibdat de ouiedo.</head>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndado aq<am>̄</am><ex>ue</ex>l xLªij. an<am>̄</am><ex>n</ex>os del reg
@@ -23333,7 +23386,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>com<am>̄</am><ex>m</ex>o solie<am>̄</am><ex>n</ex> faz<am>̉</am><ex>er</ex> a<am>̄</am><ex>n</ex>tigua mient<am>̄</am><ex>e</ex> los
 <lb/>co<am>̄</am><ex>n</ex>çilios en toledo <am>⁊</am><ex>e</ex> enlas ot<am>ª</am><ex>ra</ex>s yg<am>ł</am><ex>les</ex>i
 <lb break="no"/>as arço<am>ƀ</am><ex>bis</ex>pales assi los fizieron 
-<lb/>dalli adela<am>̄</am><ex>n</ex>te en ouiedo⸫ </ab></div><div n="677" prev_="676"><head rend="h1" n="Rubric"><choice><abbr>cp<am>ł</am>o</abbr><expan>c<ex>a</ex>p<ex>itu</ex>lo</expan></choice> xxiiijº 
+<lb/>dalli adela<am>̄</am><ex>n</ex>te en ouiedo⸫ </ab></div><div n="677" prev="676"><head rend="h1" n="Rubric"><choice><abbr>cp<am>ł</am>o</abbr><expan>c<ex>a</ex>p<ex>itu</ex>lo</expan></choice> xxiiijº 
 <lb/>de com<am>̄</am><ex>m</ex>o g<am>ᵉ</am><ex>ue</ex>rreaua<am>̄</am><ex>n</ex> al rey don a<am>º</am><ex>lfonso</ex> sus fi
 <lb break="no"/>ios <am>⁊</am><ex>e</ex> Munno ferrandes⸫</head>
 <fw type="catch" place="bl">a<am>̄</am><ex>n</ex>dados</fw>
@@ -23392,7 +23445,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>dor carlos sobre los fra<am>̄</am><ex>n</ex>çezes v. an<am>̄</am><ex>n</ex>os</ab>
 <lb/><ab n="1400">¶ Et en<am>̄</am><ex>e</ex>l xLªvº. murio el <am>ppª</am><ex>papa</ex> Jo<am>ħ</am><ex>ha</ex>n </ab><ab n="1500"><am>⁊</am><ex>e</ex> fu
 <lb break="no"/>e puesto ensu lugar el <am>ppª</am><ex>papa</ex> i<am>º</am><ex>ohan</ex> </ab><ab n="1600"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> 
-<lb/>co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> vj. apostoligos </ab></div><div n="678" prev_="677"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb/>co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> vj. apostoligos </ab></div><div n="678" prev="677"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>xxv. De com<am>̄</am><ex>m</ex>o el Rey don alfonso 
 <lb/>dio el Regno asu fijo garçia. <am>⁊</am><ex>e</ex> 
 <lb/>de su muerte.</head>
@@ -23432,7 +23485,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><ab n="1200">Este an<am>̄</am><ex>n</ex>o otrossi murio el <am>ppª</am><ex>papa</ex> M<am>̉</am><ex>arin</ex>.</ab>
 <lb/><ab n="1300"><am>⁊</am><ex>e</ex> fue puesto ensu lugar agapito 
 <lb/>el segundo </ab><ab n="1400"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c.vij. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligo<hi rend= "sup">s</hi></expan></choice></ab></div>
-<lb/><div n="679" prev_="679"><head rend="h1" n="Rubric">El Regnado del Rey don garçia
+<lb/><div n="679" prev="679"><head rend="h1" n="Rubric">El Regnado del Rey don garçia
 <lb/>que regno en Leon. xiij. del Rey
 <lb/>don pelayo se comiença. ¶
 <lb/>Capitulo primero de commo el 
@@ -23478,7 +23531,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>ca </ab><ab n="600">si non ta<am>̄</am><ex>n</ex>to q<am>̄</am><ex>ue</ex> murio y el <am>ppª</am><ex>papa</ex> a
 <lb break="no"/>gapito </ab><ab n="700"><am>⁊</am><ex>e</ex> fue puesto ensu lugar 
 <lb/>adria<am>̄</am><ex>n</ex> el iijº. </ab><ab n="800"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> viijº
-<lb/><choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="680" prev_="680"><head rend="h1" n="Rubric">Capitulo segundo.
+<lb/><choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="680" prev="680"><head rend="h1" n="Rubric">Capitulo segundo.
 <lb/>Dela muerte del rey don garçia</head>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados tres an<am>̄</am><ex>n</ex>os del regnado 
 <lb/>del rey do<am>̄</am><ex>n</ex> g<am>ª</am><ex>arçia</ex>. </ab><ab n="200">q<am>̄</am><ex>ue</ex> fue e<am>̄</am><ex>n</ex>la era de 
@@ -23500,7 +23553,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>n<am>̄</am><ex>n</ex>o otrossi murio el <am>ppª</am><ex>papa</ex> ad<am>ⁱ</am><ex>ri</ex>an. </ab><ab n="1100"><am>⁊</am><ex>e</ex> fue 
 <lb/>puesto ensu lugar basilio el p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex>o</ab>
 <lb/><ab n="1200"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> con el .c. <am>⁊</am><ex>e</ex> ix apostoligos⸫</ab></div>
-<lb/><div n="681" prev_="682"><head rend="h1" n="Rubric">El regnado del segundo Rey 
+<lb/><div n="681" prev="682"><head rend="h1" n="Rubric">El regnado del segundo Rey 
 <lb/>don ordonno que regno catorze
 <lb break="no"/>no despues del Rey don pelayo
 <lb/>se comiença.
@@ -23551,7 +23604,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>gal. </ab><ab n="1200">¶ Otrossi luego q<am>̄</am><ex>ue</ex> come<am>̄</am><ex>n</ex>ço arreg
 <lb break="no"/>nar saco su hueste <am>⁊</am><ex>e</ex> fue ç<am>̉</am><ex>er</ex>car talau<am>̉</am><ex>er</ex>a</ab></div>
 
-<lb/><div n="683" prev_="684"><head rend="h1" n="Rubric"> </head><ab n="200">del rey do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> uino sob<am>ᵉ</am><ex>re</ex> tala
+<lb/><div n="683" prev="684"><head rend="h1" n="Rubric"> </head><ab n="200">del rey do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> uino sob<am>ᵉ</am><ex>re</ex> tala
 <lb break="no"/>u<am>̉</am><ex>er</ex>a assi com<am>̄</am><ex>m</ex>o diximos ya <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> se uie
 <lb break="no"/>ro<am>̄</am><ex>n</ex> mal trechos <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex>b<am>ª</am><ex>ra</ex>ntados del rey do<am>̄</am><ex>n</ex> 
 <lb/>ordon<am>̄</am><ex>n</ex>o enbiaro<am>̄</am><ex>n</ex> pedir ayuda a abder
@@ -23598,7 +23651,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>quel su noble ue<am>̄</am><ex>n</ex>çimie<am>̄</am><ex>n</ex>to. </ab><ab n="1700">¶ Desi
 <lb/>tornosse <am>ꝑ</am><ex>por</ex>a leo<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> g<am>ª</am><ex>ra</ex>ndes aueres q<am>̄</am><ex>ue</ex> 
 <lb/>tomo <am>⁊</am><ex>e</ex> con moros catiuos muc<am>ħ</am><ex>ho</ex>
-<lb/>onrrado <am>⁊</am><ex>e</ex> co<am>̄</am><ex>n</ex> g<am>ª</am><ex>ra</ex>nt p<am>̉</am><ex>re</ex>z⸫ </ab></div><div n="684" prev_="685"><head rend="h1" n="Rubric">De com<am>̄</am><ex>m</ex>o 
+<lb/>onrrado <am>⁊</am><ex>e</ex> co<am>̄</am><ex>n</ex> g<am>ª</am><ex>ra</ex>nt p<am>̉</am><ex>re</ex>z⸫ </ab></div><div n="684" prev="685"><head rend="h1" n="Rubric">De com<am>̄</am><ex>m</ex>o 
 <lb/>el rey do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o corrio <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de luze<am>̄</am><ex>n</ex>çi
 <lb break="no"/>a <am>⁊</am><ex>e</ex> metio la yg<am>ł</am><ex>les</ex>ia o<am>ƀ</am><ex>bis</ex>pal dentro en 
 <lb/>la uilla⸫</head>
@@ -23661,7 +23714,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>la muy bie<am>̄</am><ex>n</ex>. </ab><ab n="2500">¶ Mas agora dexam<am>̄</am><ex>o</ex>s 
 <lb/>aq<am>ⁱ</am><ex>ui</ex> de fablar del rey do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o <am>⁊</am><ex>e</ex> di
 <lb break="no"/>remos de abderraheme<am>̄</am><ex>n</ex> rey de cordo
-<lb break="no"/>ua </ab></div><div n="685" prev_="686"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o lidiaro<am>̄</am><ex>n</ex> el rey
+<lb break="no"/>ua </ab></div><div n="685" prev="686"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o lidiaro<am>̄</am><ex>n</ex> el rey
 <lb/>don ordon<am>̄</am><ex>n</ex>o <am>⁊</am><ex>e</ex> abderrahemel rey de cordoua</head> 
 <note place="margin-right" resp="1">lxvj</note> 
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados q<am>ª</am><ex>ua</ex>tro an<am>̄</am><ex>n</ex>os del regna
@@ -23692,7 +23745,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><am>ꝑ</am><ex>per</ex>tenesca. </ab><ab n="800">si no<am>̄</am><ex>n</ex> ta<am>̄</am><ex>n</ex>to q<am>̄</am><ex>ue</ex> murio en el 
 <lb/>el <am>ppª</am><ex>papa</ex> basilio </ab><ab n="900"><am>⁊</am><ex>e</ex> fue puesto e<am>̄</am><ex>n</ex> su lu
 <lb break="no"/>gar esteua<am>̄</am><ex>n</ex> el vº. </ab><ab n="1000"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el çie<am>̄</am><ex>n</ex>to 
-<lb/><am>⁊</am><ex>e</ex> x. apostoligos⸫ </ab></div><div n="686" prev_="687"><head rend="h1" n="Rubric">Capitulo .vjº 
+<lb/><am>⁊</am><ex>e</ex> x. apostoligos⸫ </ab></div><div n="686" prev="687"><head rend="h1" n="Rubric">Capitulo .vjº 
 <lb/>De com<am>̄</am><ex>m</ex>o el rey don ordon<am>̄</am><ex>n</ex>o fue 
 <lb/>ue<am>̄</am><ex>n</ex>çudo en ual de yunq<am>̄</am><ex>ue</ex>ra <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> 
 <lb/>lidio con abderrahemen⸫</head>
@@ -23747,7 +23800,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><ab n="1600">¶ El o<am>ƀ</am><ex>bis</ex>po do<am>̄</am><ex>n</ex> dulçidio salio otrosi 
 <lb/>en arrehen<am>̄</am><ex>n</ex>es q<am>̄</am><ex>ue</ex> dexo y. </ab><ab n="1700">ca el rey 
 <lb/>do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o g<am>ⁱ</am><ex>ui</ex>so q<am>ª</am><ex>ua</ex>nto el mas pudo 
-<lb/>de com<am>̄</am><ex>m</ex>o saliessen ende⸫ </ab></div><div n="687" prev_="688"><head rend="h1" n="Rubric">Capi
+<lb/>de com<am>̄</am><ex>m</ex>o saliessen ende⸫ </ab></div><div n="687" prev="688"><head rend="h1" n="Rubric">Capi
 <lb break="no"/>tulo .vijº de com<am>̄</am><ex>m</ex>o el rey don ordon
 <lb break="no"/>no corrio <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de moros <am>⁊</am><ex>e</ex> derribo   <note place="margin-right" resp="1">lxviij</note>
 <lb/>muchos castiellos <am>⁊</am><ex>e</ex> mato todos 
@@ -23820,7 +23873,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>ma<am>̄</am><ex>n</ex>dolos matar. </ab><ab n="2400">¶ Et cue<am>̄</am><ex>n</ex>ta la esto
 <lb break="no"/>ria q<am>̄</am><ex>ue</ex> menoscabo mucho el rey enel 
 <lb/>su prez <am>⁊</am><ex>e</ex> enla su nobleza por aq<am>̄</am><ex>ue</ex>l 
-<lb/>fecho⸫ </ab></div><div n="688" prev_="689"><head rend="h1" n="Rubric">Capitulo ochauo de com<am>̄</am><ex>m</ex>o 
+<lb/>fecho⸫ </ab></div><div n="688" prev="689"><head rend="h1" n="Rubric">Capitulo ochauo de com<am>̄</am><ex>m</ex>o 
 <lb/>el rey don ordon<am>̄</am><ex>n</ex>o priso nauar
 <lb break="no"/>ra <am>⁊</am><ex>e</ex> caso co<am>̄</am><ex>n</ex> fija del rey de nauar
 <lb break="no"/>ra <am>⁊</am><ex>e</ex> de commo murio⸫</head>
@@ -23850,7 +23903,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <cb n="a"/>
 
 <lb/>quando se uio dolie<am>̄</am><ex>n</ex>te q<am>̄</am><ex>ue</ex> se fue <am>ꝑ</am><ex>por</ex>a leo<am>̄</am><ex>n</ex>
-<lb/>Et q<am>̄</am><ex>ue</ex> y murio⸫ </ab></div><div n="689" prev_="691"><head rend="h1" n="Rubric">El Regnado del
+<lb/>Et q<am>̄</am><ex>ue</ex> y murio⸫ </ab></div><div n="689" prev="691"><head rend="h1" n="Rubric">El Regnado del
 <lb/>segundo Rey don fruela <am>⁊</am><ex>e</ex> quinze
 <lb break="no"/>no del Rey don pelayo se comiença.
 <lb/><hi rend="init2">C</hi>Apitulo primero del mal 
@@ -23983,7 +24036,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>padre de ferra<am>̄</am><ex>n</ex>t R<am>ᵉ</am><ex>odrigue</ex>s </ab><ab n="4100"> <am>⁊</am><ex>e</ex> ferra<am>̄</am><ex>n</ex>t R<am>ᵉ</am><ex>odrigue</ex>s de p<am>º</am><ex>edro</ex> 
 <lb/>ferra<am>̄</am><ex>n</ex>des </ab><ab n="4200">mas no<am>̄</am><ex>n</ex> del q<am>̄</am><ex>ue</ex> dixero<am>̄</am><ex>n</ex> el cas
 <lb break="no"/>tellan<am>̄</am><ex>n</ex>o. <am>⁊</am><ex>e</ex> de do<am>̄</am><ex>n</ex> yelo la q<am>̄</am><ex>ue</ex> fue casa
-<lb break="no"/>da co<am>̄</am><ex>n</ex> Nun<am>̄</am><ex>n</ex>o laynez⸫ </ab></div><div n="690" prev_="692"><head rend="h1" n="Rubric">Del lin<am>̄</am><ex>n</ex>a
+<lb break="no"/>da co<am>̄</am><ex>n</ex> Nun<am>̄</am><ex>n</ex>o laynez⸫ </ab></div><div n="690" prev="692"><head rend="h1" n="Rubric">Del lin<am>̄</am><ex>n</ex>a
 <lb break="no"/>ge de Nun<am>̄</am><ex>n</ex>o rasuera onde uino el 
 <lb/>conde ferrant gonçalez⸫</head>
 <note place="margin-left" resp="1">lxxj</note>
@@ -24046,7 +24099,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>muchos ag<am>ª</am><ex>ra</ex>uiamientos enel regno 
 <lb/>de leon. </ab><ab n="1700">¶ Mas dexamos aq<am>ⁱ</am><ex>ui</ex> de fablar
 <lb/>destos <am>⁊</am><ex>e</ex> tornaremos aco<am>̄</am><ex>n</ex>tar del rey don 
-<lb/>fruela⸫ </ab></div><div n="691" prev_="693"><head rend="h1" n="Rubric">Dela muerte del rey fruela</head>
+<lb/>fruela⸫ </ab></div><div n="691" prev="693"><head rend="h1" n="Rubric">Dela muerte del rey fruela</head>
 <note place="margin-left" resp="1">lxxij</note>
 <lb/><ab n="100"><hi rend="init2">P</hi>ues q<am>̄</am><ex>ue</ex> el rey don fruela ouo reg
 <lb break="no"/>nado un an<am>̄</am><ex>n</ex>o <am>⁊</am><ex>e</ex> dos meses <am>⁊</am><ex>e</ex> e<am>̄</am><ex>n</ex>
@@ -24071,7 +24124,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>p<am>ⁱ</am><ex>ri</ex>mero </ab><ab n="1500"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> xj. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice></ab>
 <lb/><ab n="1600">¶ En este an<am>̄</am><ex>n</ex>o otrossi murio ed
 <lb break="no"/>do rey de fra<am>̄</am><ex>n</ex>çia </ab><ab n="1700">¶ Et regno empos el 
-<lb/>carlos el q<am>ⁱ</am><ex>ui</ex>nto xxvij an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="692" prev_="695"><head rend="h1" n="Rubric">¶
+<lb/>carlos el q<am>ⁱ</am><ex>ui</ex>nto xxvij an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="692" prev="695"><head rend="h1" n="Rubric">¶
 <lb/>Comiençase el regnado del quarto 
 <lb/>Rey don alfonso <am>⁊</am><ex>e</ex> xvj. del Rey don
 <lb/>pelayo. Capitulo primero de co<am>ꝫ</am><ex>m</ex><am>̄</am><ex>m</ex>o
@@ -24131,7 +24184,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <rdg type="orig">xij</rdg>
 <rdg type="mod">xvj</rdg>
 </app>. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>.</ab></div>
-<lb/><div n="693" prev_="696"><head rend="h1" n="Rubric">Ca
+<lb/><div n="693" prev="696"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>pitulo ijº. de com<am>̄</am><ex>m</ex>o el rey don alfo<am>̄</am><ex>n</ex>
 <lb break="no"/>so dio el regno asu <am>ħ</am><ex>her</ex>mano don
 <lb/>Ramiro <am>⁊</am><ex>e</ex> el entro en orden⸫</head>
@@ -24163,7 +24216,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 
 <cb n="b"/>
 
-<lb/><div n="694" prev_="698"><head rend="h1" n="Rubric">El Regnado del rey don ramiro
+<lb/><div n="694" prev="698"><head rend="h1" n="Rubric">El Regnado del rey don ramiro
 <lb/>el ijº. <am>⁊</am><ex>e</ex> xvij despues del rey del rey
 <lb/>don pelayo. se comiença. Capi
 <lb break="no"/>tulo primero de com<am>̄</am><ex>m</ex>o el rey don 
@@ -24205,7 +24258,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><am>ħ</am><ex>her</ex>mano <am>⁊</am><ex>e</ex> touol ç<am>̉</am><ex>er</ex>cado dos an<am>̄</am><ex>n</ex>os. </ab><ab n="1100">¶ Esse 
 <lb/>an<am>̄</am><ex>n</ex>o murio el <am>ppª</am><ex>papa</ex> io<am>ħ</am><ex>ha</ex>n </ab><ab n="1200"><am>⁊</am><ex>e</ex> fue puesto en 
 <lb/>su lugar benito el iiijº. </ab><ab n="1300"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. 
-<lb/>xvij. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="695" prev_="699"><head rend="h1" n="Rubric">Capitulo ijº. de com<am>̄</am><ex>m</ex>o 
+<lb/>xvij. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice> </ab></div><div n="695" prev="699"><head rend="h1" n="Rubric">Capitulo ijº. de com<am>̄</am><ex>m</ex>o 
 <lb/>los ricos om<am>̄</am><ex>ne</ex>s de castilla alçaron co<am>̄</am><ex>n</ex>
 <lb break="no"/>de aferrant gonçales <note place="margin-left" resp="1">lxxvj</note></head>   
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndado aq<am>̄</am><ex>ue</ex>l p<am>ⁱ</am><ex>ri</ex>mero an<am>̄</am><ex>n</ex>o del regna
@@ -24297,7 +24350,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>dio. </ab><ab n="3100"><am>⁊</am><ex>e</ex> sallio co<am>̄</am><ex>n</ex> s<am>ꝯ</am><ex>us</ex> uassallos co<am>̄</am><ex>n</ex>tra los 
 <lb/>moros <am>⁊</am><ex>e</ex> ouo co<am>̄</am><ex>n</ex> ellos g<am>ª</am><ex>ra</ex>ndes lides <am>⁊</am><ex>e</ex> g<am>ª</am><ex>ra</ex>n
 <lb break="no"/>des batallas <am>⁊</am><ex>e</ex> ue<am>̄</am><ex>n</ex>çio siemp<am>̉</am><ex>re</ex> asi com<am>̄</am><ex>m</ex>o 
-<lb/>diremos adela<am>̄</am><ex>n</ex>te ensu estoria </ab></div><div n="696" prev_="700"><head rend="h1" n="Rubric">Com<am>̄</am><ex>o</ex>
+<lb/>diremos adela<am>̄</am><ex>n</ex>te ensu estoria </ab></div><div n="696" prev="700"><head rend="h1" n="Rubric">Com<am>̄</am><ex>o</ex>
 <lb/>los asturianos se alçaro<am>̄</am><ex>n</ex> <am>ꝯ</am><ex>con</ex><am>ª</am><ex>tra</ex>l rey don 
 <lb/>ramiro <am>⁊</am><ex>e</ex> los mato el por ende⸫</head>
 <note place="margin-left" resp="1">lxxvij</note> 
@@ -24361,7 +24414,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <cb n="a"/>
 
 
-<div n="697" prev_="701">
+<div n="697" prev="701">
 <head rend="h1unex" n="Rubric"><space quantity="2" unit="lines"/><note place="margin-left" resp="1">lxxviij</note></head>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados tres an<am>̄</am><ex>n</ex>os del Regna
 <lb break="no"/>do del Rey don Ramiro que 
@@ -24414,7 +24467,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>pleytesias q<am>̄</am><ex>ue</ex> pusieron co<am>̄</am><ex>n</ex> el. </ab><ab n="1500">¶ Ma<hi rend= "sup">s</hi> 
 <lb/>agora aq<am>ⁱ</am><ex>ui</ex> de fablar desto <am>⁊</am><ex>e</ex> diremos
 <lb/>del conde ferrant gonçales⸫</ab></div>
-<lb/><div n="698" prev_="702"><head rend="h1unex" n="Rubric"><space quantity="2" unit="lines"/><note place="margin-right" resp="1">lxxjx</note></head>
+<lb/><div n="698" prev="702"><head rend="h1unex" n="Rubric"><space quantity="2" unit="lines"/><note place="margin-right" resp="1">lxxjx</note></head>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados q<am>ª</am><ex>ua</ex>tro an<am>̄</am><ex>n</ex>os del reg
 <lb break="no"/>nado del Rey do<am>̄</am><ex>n</ex> Ramiro q<am>̄</am><ex>ue</ex> 
 <lb/>fue enla er<hi rend= "sup">a</hi> de dcccc. <am>⁊</am><ex>e</ex> xLª. <am>⁊</am><ex>e</ex> dos. ¶</ab>
@@ -24432,7 +24485,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>Et este an<am>̄</am><ex>n</ex>o murio el <am>ppª</am><ex>papa</ex> <choice><abbr><am>xp̄</am>oual</abbr><expan><ex>crist</ex>oual</expan></choice> </ab><ab n="600"> 
 <lb/><am>⁊</am><ex>e</ex> fue puesto ensu lugar Sargio 
 <lb/>el iijº. </ab><ab n="700"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> xx. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>⸫</ab></div>
-<lb/><div n="699" prev_="703"><head rend="h1unex" n="Rubric"><space quantity="3" unit="lines"/><note place="margin-right" resp="1">lxxx</note></head>
+<lb/><div n="699" prev="703"><head rend="h1unex" n="Rubric"><space quantity="3" unit="lines"/><note place="margin-right" resp="1">lxxx</note></head>
 
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .v. an<am>̄</am><ex>n</ex>os del Regna
 <lb break="no"/>do del Rey don Ramiro que 
@@ -24500,7 +24553,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>fable sin guisa Ruego uos q<am>̄</am><ex>ue</ex> me
 <lb/>lo <am>ꝑ</am><ex>per</ex>donedes <am>⁊</am><ex>e</ex> diga cada uno lo
 <lb/>meior q<am>̄</am><ex>ue</ex> entendiere⸫</ab></div>
-<lb/><div n="700" prev_="704"><head rend="h1unex" n="Rubric"><space quantity="2" unit="lines"/><note place="margin-right" resp="1">lxxxj</note></head>
+<lb/><div n="700" prev="704"><head rend="h1unex" n="Rubric"><space quantity="2" unit="lines"/><note place="margin-right" resp="1">lxxxj</note></head>
 
 <lb/><ab n="100"><hi rend="init2">E</hi>L conde no<am>̄</am><ex>n</ex> se pago del co<am>̄</am><ex>n</ex>
 <lb break="no"/>seio q<am>̄</am><ex>ue</ex>l daua g<am>º</am><ex>onçalo</ex> dias <am>⁊</am><ex>e</ex> fue 
@@ -24572,7 +24625,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>tos q<am>̄</am><ex>ue</ex> nos ue<am>̄</am><ex>n</ex>çeremos almançor esta 
 <lb/>uez <am>⁊</am><ex>e</ex> sera g<am>ª</am><ex>ra</ex>nt la mi onrra <am>⁊</am><ex>e</ex> la <choice><abbr>ur<am>̄</am>a</abbr><expan>u<ex>uest</ex>ra</expan></choice> 
 <lb/>mayor </ab><ab n="2700"><am>⁊</am><ex>e</ex> faredes de mi el meior om<am>̄</am><ex>n</ex>e 
-<lb/>despanna. </ab></div><div n="701" prev_="705"><head rend="h1" n="Rubric">Capitulo viijº. de com<am>̄</am><ex>m</ex>o 
+<lb/>despanna. </ab></div><div n="701" prev="705"><head rend="h1" n="Rubric">Capitulo viijº. de com<am>̄</am><ex>m</ex>o 
 <lb/>frey pelayo fablo con el conde ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s
 <lb/>yl dixo quel uençrie la batalla<note place="margin-right" resp="1">lxxxij</note></head>
 
@@ -24680,7 +24733,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>en q<am>̄</am><ex>ue</ex> pueda<am>̄</am><ex>n</ex> guaresçer mas mo<am>̄</am><ex>n</ex>ges 
 <lb/>Et mayor cue<am>̄</am><ex>n</ex>to q<am>̄</am><ex>ue</ex> este </ab><ab n="4200"><am>⁊</am><ex>e</ex> dar les he 
 <lb/>en q<am>̄</am><ex>ue</ex> biua<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> lo q<am>̄</am><ex>ue</ex> ouiere<am>̄</am><ex>n</ex> menester.</ab></div>
-<lb/><div n="702" prev_="706"><head rend="h1" n="Rubric">Capitulo ixº de com<am>̄</am><ex>m</ex>o el conde es
+<lb/><div n="702" prev="706"><head rend="h1" n="Rubric">Capitulo ixº de com<am>̄</am><ex>m</ex>o el conde es
 <lb break="no"/>forçaua s<am>ꝯ</am><ex>us</ex> co<am>̄</am><ex>n</ex>panas por el miedo q<am>̄</am><ex>ue</ex>
 <lb/>ouieron del caua<am>łł</am><ex>ller</ex>o q<am>̄</am><ex>ue</ex> se sumio so
 <lb/>la <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o lidio co<am>̄</am><ex>n</ex> alma<am>̄</am><ex>n</ex>çor yl ue<am>̄</am><ex>n</ex>çio. <note type="ed" resp="RPG">La última palabra fue escrita en el margen izquierdo</note></head>
@@ -24815,7 +24868,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>catar m<am>º</am><ex>aestro</ex>s <am>ꝑ</am><ex>por</ex>a guaresçer los q<am>̄</am><ex>ue</ex> era<am>̄</am><ex>n</ex> fe
 <lb break="no"/>ridos. </ab><ab n="4800">¶ Mas agora dexamos aq<am>ⁱ</am><ex>ui</ex> de 
 <lb/>fablar del conde <am>⁊</am><ex>e</ex> tornaremos aco<am>̄</am><ex>n</ex>
-<lb break="no"/>tar del Rey do<am>̄</am><ex>n</ex> Ramiro⸫ </ab></div><div n="703" prev_="707"><head rend="h1" n="Rubric">Capitulo
+<lb break="no"/>tar del Rey do<am>̄</am><ex>n</ex> Ramiro⸫ </ab></div><div n="703" prev="707"><head rend="h1" n="Rubric">Capitulo
 <lb/>xº de com<am>̄</am><ex>m</ex>o el rey don ramiro fue so
 <lb break="no"/>bre çaragoça <am>⁊</am><ex>e</ex> se torno su uassallo
 <lb/>benhaya rey desa çibdat.</head>
@@ -24847,7 +24900,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>damie<am>̄</am><ex>n</ex>t. </ab><ab n="800">¶ Et desq<am>̄</am><ex>ue</ex> el fue ydo tiros aben
 <lb break="no"/>haya dela postura q<am>̄</am><ex>ue</ex> fiziera co<am>̄</am><ex>n</ex> el <am>⁊</am><ex>e</ex> mi<am>̄</am><ex>n</ex>ti
 <lb break="no"/>ol <am>⁊</am><ex>e</ex> tornosse al uasage del Rey de cordo
-<lb break="no"/>ua⸫ </ab></div><div n="704" prev_="708"><head rend="h1" n="Rubric">Capitulo xj. De commo ue<am>̄</am><ex>n</ex>
+<lb break="no"/>ua⸫ </ab></div><div n="704" prev="708"><head rend="h1" n="Rubric">Capitulo xj. De commo ue<am>̄</am><ex>n</ex>
 <lb break="no"/>çio a Abderrahemen Rey de cordoua <note place="margin-left" resp="1">lxxxv</note></head>
 
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .vij. an<am>̄</am><ex>n</ex>os del Regna
@@ -24884,7 +24937,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>muc<am>ħ</am><ex>ho</ex>s catiuos </ab><ab n="1400"><am>⁊</am><ex>e</ex> lleuo abenahayaca
 <lb break="no"/>tiuo. </ab><ab n="1500">¶ Mas agora dexamos aquide 
 <lb/>fablar desto <am>⁊</am><ex>e</ex> diremos del conde fer
-<lb break="no"/>rant gonçales⸫ </ab></div><div n="705" prev_="709"><head rend="h1" n="Rubric">Capitulo xij. De 
+<lb break="no"/>rant gonçales⸫ </ab></div><div n="705" prev="709"><head rend="h1" n="Rubric">Capitulo xij. De 
 <lb/>commo el conde ferrant gonçales
 <lb/>enbio dez<am>̉</am><ex>ir</ex> al rey de nauarra q<am>̄</am><ex>ue</ex>l eme<am>̄</am><ex>n</ex>
 <lb break="no"/>dasse los tuertos q<am>̄</am><ex>ue</ex>l auie fec<am>ħ</am><ex>ho</ex>s sino<am>̄</am><ex>n</ex> q<am>̄</am><ex>ue</ex>l desafiaua. <note place="margin-right" resp="1">lxxxvj</note></head>
@@ -25023,7 +25076,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><ab n="4100">¶ Estonçes dixero<am>̄</am><ex>n</ex> ellos q<am>̄</am><ex>ue</ex> farie<am>̄</am><ex>n</ex>
 <lb/>todo lo q<am>̄</am><ex>ue</ex>el mandasse <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex>l ayu
 <lb break="no"/>darien assi com<am>̄</am><ex>m</ex>o uassallos bueno<hi rend= "sup">s</hi>
-<lb/>fazen asennor⸫ </ab></div><div n="706" prev_="710"><head rend="h1" n="Rubric">Capitulo xiij de 
+<lb/>fazen asennor⸫ </ab></div><div n="706" prev="710"><head rend="h1" n="Rubric">Capitulo xiij de 
 <lb/>com<am>̄</am><ex>m</ex>o el co<am>̄</am><ex>n</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s lidio con 
 <lb/>el Rey don sancho yl mato <note place="margin-left" resp="1">lxxxvij</note></head>   
 
@@ -25096,7 +25149,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>ron los nauarros <am>⁊</am><ex>e</ex> dexaro<am>̄</am><ex>n</ex> el campo</ab>
 <lb/><ab n="1800">¶ El conde mando lleuar estonçes 
 <lb/>al Rey don sanc<am>ħ</am><ex>ho</ex> anauarra mucho
-<lb/>Ondradamie<am>̄</am><ex>n</ex>te. </ab></div><div n="707" prev_="711"><head rend="h1" n="Rubric">Capitulo xiiij. 
+<lb/>Ondradamie<am>̄</am><ex>n</ex>te. </ab></div><div n="707" prev="711"><head rend="h1" n="Rubric">Capitulo xiiij. 
 <lb/>de com<am>̄</am><ex>m</ex>o lidio el conde ferrant
 <lb/>g<am>ᵉ</am><ex>onçale</ex>s co<am>̄</am><ex>n</ex> el conde de tholosa yl mato</head>
 <note place="margin-right" resp="1">lxxxvº</note>
@@ -25278,7 +25331,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>la pudo au<am>̉</am><ex>er</ex>. </ab><ab n="6900"><space quantity="1" unit="chars"/>Mas agora dexam<am>̄</am><ex>o</ex>s 
 <lb/>aqui de fablar del <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> 
 <lb/>diremos del Rey don Ramiro⸫</ab></div>
-<lb/><div n="708" prev_="712"><head rend="h1" n="Rubric">Capitulo xv. de com<am>̄</am><ex>m</ex>o el rey 
+<lb/><div n="708" prev="712"><head rend="h1" n="Rubric">Capitulo xv. de com<am>̄</am><ex>m</ex>o el rey 
 <lb/>don ramiro p<am>ⁱ</am><ex>ri</ex>so dos altos om<am>̄</am><ex>ne</ex>s 
 <lb/>q<am>̄</am><ex>ue</ex> se alçara<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> ec<am>ħ</am><ex>ho</ex>los moros de su regno.</head>
 <note place="margin-left" resp="1"><unclear reason="damage">lx</unclear>xxix</note>
@@ -25341,7 +25394,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>ziesse<am>̄</am><ex>n</ex> nj<am>̄</am><ex>n</ex>guna cosa cot<am>ª</am><ex>ra</ex> dios. </ab><ab n="1700">¶ Mas 
 <lb/>agora dexamos aqui de fablar del
 <lb/>Rey do<am>̄</am><ex>n</ex> Ramiro <am>⁊</am><ex>e</ex> diremos del <am>ꝯ</am><ex>con</ex>de 
-<lb/>ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="709" prev_="713"><head rend="h1" n="Rubric">Capitulo xvjº. de com<am>̄</am><ex>m</ex>o al
+<lb/>ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="709" prev="713"><head rend="h1" n="Rubric">Capitulo xvjº. de com<am>̄</am><ex>m</ex>o al
 <lb break="no"/>ma<am>̄</am><ex>n</ex>çor uino con g<am>ª</am><ex>ra</ex>nt poder acastil
 <lb break="no"/>la <am>⁊</am><ex>e</ex> delo q<am>̄</am><ex>ue</ex> dixeron sa<am>̄</am><ex>n</ex>t pelayo el 
 <lb/>mo<am>̄</am><ex>n</ex>ge <am>⁊</am><ex>e</ex> sa<am>̄</am><ex>n</ex>t milla<am>̄</am><ex>n</ex> al <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s.</head>
@@ -25551,7 +25604,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>aq<am>̄</am><ex>ue</ex>l q<am>̄</am><ex>ue</ex> fuxese del ca<am>̄</am><ex>n</ex>po q<am>̄</am><ex>ue</ex> fuesse tray
 <lb break="no"/>dor ca mas q<am>̄</am><ex>ue</ex>rie<am>̄</am><ex>n</ex> ue<am>̄</am><ex>n</ex>çer omorir q<am>̄</am><ex>ue</ex>.
 <lb/>foyr nj<am>̄</am><ex>n</ex> se dar ap<am>ⁱ</am><ex>ri</ex>sion.</ab></div>
-<lb/><div n="710" prev_="714"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvijº 
+<lb/><div n="710" prev="714"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvijº 
 <lb/>de com<am>̄</am><ex>m</ex>o el conde ferant g<am>ᵉ</am><ex>onçale</ex>s.
 <lb/>saco el p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex> dia dela batalla alos
 <lb/>moros de sus tiendas⸫</head>
@@ -25718,7 +25771,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>essa noc<am>ħ</am><ex>he</ex>. <am>⁊</am><ex>e</ex> fallaro<am>̄</am><ex>n</ex> todo q<am>ª</am><ex>ua</ex>nto 
 <lb/>mester ouiero<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> yoguiero<am>̄</am><ex>n</ex> todos
 <lb/>armados uela<am>̄</am><ex>n</ex>do toda la noche⸫</ab></div>
-<lb/><div n="711" prev_="715"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xviij. de com<am>̄</am><ex>m</ex>o el conde
+<lb/><div n="711" prev="715"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xviij. de com<am>̄</am><ex>m</ex>o el conde
 <lb/>ferrant g<am>ᵉ</am><ex>onçale</ex>s lidio co<am>̄</am><ex>n</ex> al ma<am>̄</am><ex>n</ex>çor yl ue<am>̄</am><ex>n</ex>çio</head>
 <note place="margin-left" resp="1">xcij</note>
 <lb/><ab n="100"><hi rend="init2">O</hi>Tro dia de man<am>̄</am><ex>n</ex>ana fue
@@ -25923,7 +25976,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>fue fecho </ab><ab n="10300">fuero<am>̄</am><ex>n</ex> se cada unos <am>ꝑ</am><ex>por</ex>a s<am>ꝯ</am><ex>us</ex>
 <lb/>lugares. </ab><ab n="10400">¶ Mas agora dexamos 
 <lb/>aqui de fablar desto <am>⁊</am><ex>e</ex> diremos del 
-<lb/>Rey don Ramiro⸫ </ab></div><div n="712" prev_="716"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xix. De 
+<lb/>Rey don Ramiro⸫ </ab></div><div n="712" prev="716"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xix. De 
 <lb/>las buenas obras del rey don ramiro</head>
 <note place="margin-left" resp="1">xciij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xj an<am>̄</am><ex>n</ex>os del Regnado
@@ -25973,7 +26026,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>el <am>ppª</am><ex>papa</ex> dando. </ab><ab n="2100">¶ Et fue puesto ensu lu
 <lb break="no"/>gar. Jo<am>ħ</am><ex>ha</ex>n el ixº. o<am>ƀ</am><ex>bis</ex>po dela çibdat de Ra
 <lb break="no"/>uena </ab><ab n="2200"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c.xxiij apostoligos.</ab></div>
-<lb/><div n="713" prev_="717"><head rend="h1" n="Rubric">Capitulo xxº dela muerte del 
+<lb/><div n="713" prev="717"><head rend="h1" n="Rubric">Capitulo xxº dela muerte del 
 <lb/>Rey don Ramiro⸫</head>
 <note place="margin-right" resp="1">xciiij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xix an<am>̄</am><ex>n</ex>os del Regnado 
@@ -26012,7 +26065,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>q<am>̄</am><ex>ue</ex> om<am>̄</am><ex>n</ex>e me faga. </ab><ab n="2000">¶ Esto acabado fino</ab>
 <lb/><ab n="2100"><am>⁊</am><ex>e</ex> fue ent<am>̉</am><ex>er</ex>rado enel monest<am>̉</am><ex>er</ex>io de sant
 <lb/>Saluador el q<am>̄</am><ex>ue</ex> fazie en leo<am>̄</am><ex>n</ex> para su 
-<lb/>fija don<am>̄</am><ex>n</ex>a Eluira⸫ </ab></div><div n="714" prev_="719"><head rend="h1" n="Rubric">El regnado del 
+<lb/>fija don<am>̄</am><ex>n</ex>a Eluira⸫ </ab></div><div n="714" prev="719"><head rend="h1" n="Rubric">El regnado del 
 <note place="margin-left" resp="1">xcv</note>
 <lb/>ijº Rey don ordon<am>̄</am><ex>n</ex>o q<am>̄</am><ex>ue</ex> regno xviijº
 <lb/>despues del rey don pelayo se 
@@ -26072,7 +26125,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>este an<am>̄</am><ex>n</ex>o p<am>ⁱ</am><ex>ri</ex>so el <am>ꝯ</am><ex>con</ex>de beri<am>ƀ</am><ex>ber</ex>to acarlos
 <lb/>Rey de fra<am>̄</am><ex>n</ex>çia por q<am>̄</am><ex>ue</ex> mato al duch. 
 <lb/>Ru<am>ƀ</am><ex>ber</ex>t </ab><ab n="1400"><am>⁊</am><ex>e</ex> echol en<am>ł</am><ex>el</ex> casti<am>łł</am><ex>ell</ex>o perone⸫</ab></div>
-<lb/><div n="715" prev_="720"><head rend="h1" n="Rubric">Capitulo segundo. De com<am>̄</am><ex>m</ex>o el </head>
+<lb/><div n="715" prev="720"><head rend="h1" n="Rubric">Capitulo segundo. De com<am>̄</am><ex>m</ex>o el </head>
 
 <pb/>
 
@@ -26100,7 +26153,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>aziendo enla p<am>ⁱ</am><ex>ri</ex>sion del conde de
 <lb/>beri<am>ƀ</am><ex>ber</ex>to suffriendo muc<am>ħ</am><ex>ho</ex> m<am>̄</am><ex>arti</ex>rio. </ab><ab n="800">¶ 
 <lb/>Et Regno enpos el Radulpho .ij. an<am>̄</am><ex>n</ex>o<hi rend= "sup">s</hi></ab></div>
-<lb/><div n="716" prev_="721"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. iijº del amor q<am>̄</am><ex>ue</ex> pusieron 
+<lb/><div n="716" prev="721"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. iijº del amor q<am>̄</am><ex>ue</ex> pusieron 
 <lb/>entressi el rey don ordonno <am>⁊</am><ex>e</ex> el co<am>̄</am><ex>n</ex>
 <lb break="no"/>de ferrant g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o lidio el 
 <lb/>conde co<am>̄</am><ex>n</ex> los moros <am>⁊</am><ex>e</ex> los ue<am>̄</am><ex>n</ex>çio.</head>
@@ -26134,7 +26187,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>la caua<am>łł</am><ex>ller</ex>ia del Rey do<am>̄</am><ex>n</ex> ordon<am>̄</am><ex>n</ex>o <am>⁊</am><ex>e</ex> co<am>̄</am><ex>n</ex> la
 <lb/>suya </ab><ab n="900"><am>⁊</am><ex>e</ex> segudolos fasta en duero 
 <lb/>¶ Et mato y muc<am>ħ</am><ex>ho</ex>s moros <am>⁊</am><ex>e</ex> lleuo 
-<lb/>muc<am>ħ</am><ex>ho</ex>s catiuos <am>ꝑ</am><ex>por</ex>a su tierra. </ab></div><div n="717" prev_="722"><head rend="h1" n="Rubric">Ca
+<lb/>muc<am>ħ</am><ex>ho</ex>s catiuos <am>ꝑ</am><ex>por</ex>a su tierra. </ab></div><div n="717" prev="722"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>pitulo quarto. Dela muerte 
 <lb/>Del Rey don ordonno⸫</head>
 <note place="margin-right" resp="1">xcviij</note>
@@ -26150,7 +26203,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>conde ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex>l mato. </ab><ab n="600">¶ En
 <lb/>este an<am>̄</am><ex>n</ex>o otrossi murio Radulpho 
 <lb/>Rey de fra<am>̄</am><ex>n</ex>çia. </ab><ab n="700"><am>⁊</am><ex>e</ex> Regno enpos el
-<lb/>loy el iijº xxviij. an<am>̄</am><ex>n</ex>os. </ab></div><div n="718" prev_="724"><head rend="h1" n="Rubric">El regna
+<lb/>loy el iijº xxviij. an<am>̄</am><ex>n</ex>os. </ab></div><div n="718" prev="724"><head rend="h1" n="Rubric">El regna
 <lb break="no"/>do de don sanc<am>ħ</am><ex>ho</ex> el p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex>o. <am>⁊</am><ex>e</ex> xixº.
 <lb/>despues del rey don pelayo se 
 <lb/>comiença. Capitulo primero. </head>
@@ -26232,7 +26285,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>estoria sobre q<am>̄</am><ex>ue</ex> Razo<am>̄</am><ex>n</ex> </ab><ab n="2400">¶ Et pues q<am>̄</am><ex>ue</ex> 
 <lb/>el fue muerto pusiero<am>̄</am><ex>n</ex> e<am>̄</am><ex>n</ex>su lugar 
 <lb/>a i<am>º.</am><ex>ohan</ex> el xº. </ab><ab n="2500"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> con el .c.xxiiijº. 
-<lb/>apostoligos⸫ </ab></div><div n="719" prev_="725"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o ijº de com<am>̄</am><ex>m</ex>o el </head>
+<lb/>apostoligos⸫ </ab></div><div n="719" prev="725"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o ijº de com<am>̄</am><ex>m</ex>o el </head>
 
 <pb/>
 
@@ -26277,7 +26330,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 
 <cb n="b"/>
 
-<lb break="no"/>mos del conde ferrant g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="720" prev_="726"><head rend="h1" n="Rubric">Capitulo
+<lb break="no"/>mos del conde ferrant g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="720" prev="726"><head rend="h1" n="Rubric">Capitulo
 <lb/>iijº. de com<am>̄</am><ex>m</ex>o el conde ferrant g<am>ᵉ</am><ex>onçale</ex>s fue 
 <lb/>alas cortes del rey don S<am>º</am><ex>ancho</ex>. aleon. <am>⁊</am><ex>e</ex> de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>ol p<am>ⁱ</am><ex>ri</ex>so despues Don garçia Rey
@@ -26534,7 +26587,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>oyr. </ab><ab n="10900">¶ Ca nos cuedauamos ya 
 <lb/>sallir de p<am>̉</am><ex>re</ex>mia <am>⁊</am><ex>e</ex> de cueta co<am>̄</am><ex>n</ex> el <am>ꝯ</am><ex>con</ex>de 
 <lb/>ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s </ab><ab n="11000"><am>⁊</am><ex>e</ex> agora auemos miedo 
-<lb/>de siemp<am>̉</am><ex>re</ex> beuir en ella. </ab></div><div n="721" prev_="727"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> iiijº. 
+<lb/>de siemp<am>̉</am><ex>re</ex> beuir en ella. </ab></div><div n="721" prev="727"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> iiijº. 
 <lb/>de com<am>̄</am><ex>m</ex>o la jnfante don<am>̄</am><ex>n</ex>a sancha 
 <lb/>fue ueer al conde ferrant g<am>ᵉ</am><ex>onçale</ex>s yl sa
 <note place="margin-right" resp="1">cij</note>
@@ -26744,7 +26797,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>es q<am>̄</am><ex>ue</ex> fue el dia claro metiero<am>̄</am><ex>n</ex> se e<am>̄</am><ex>n</ex> 
 <lb/>un mo<am>̄</am><ex>n</ex>te muc<am>ħ</am><ex>ho</ex> espeso q<am>̄</am><ex>ue</ex> uiero<am>̄</am><ex>n</ex> y çer
 <lb break="no"/>ca por tal q<am>̄</am><ex>ue</ex>los no<am>̄</am><ex>n</ex> uiesse ni<am>̄</am><ex>n</ex>guno <am>⁊</am><ex>e</ex> 
-<lb/>esperaro<am>̄</am><ex>n</ex> y fasta la noc<am>ħ</am><ex>he</ex> </ab></div><div n="722" prev_="728"><head rend="h1" n="Rubric">Capitulo
+<lb/>esperaro<am>̄</am><ex>n</ex> y fasta la noc<am>ħ</am><ex>he</ex> </ab></div><div n="722" prev="728"><head rend="h1" n="Rubric">Capitulo
 <lb/>vº. de com<am>̄</am><ex>m</ex>o el conde ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> 
 <lb/>la Jnfante donna sancha mata
 <lb break="no"/>ron al arçipreste.</head>
@@ -26818,7 +26871,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>andar. </ab><ab n="3100">¶ Mas agora dexamos aq<am>ⁱ</am><ex>ui</ex> 
 <lb/>de fablar del<am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s q<am>̄</am><ex>ue</ex> yua por 
 <lb/>su camino <am>⁊</am><ex>e</ex> diremos del acuerdo 
-<lb/>delos castellanos. </ab></div><div n="723" prev_="729"><head rend="h1" n="Rubric">Capitulo. vjº
+<lb/>delos castellanos. </ab></div><div n="723" prev="729"><head rend="h1" n="Rubric">Capitulo. vjº
 <lb/>del acuerdo q<am>̄</am><ex>ue</ex> ouie<unclear reason="damage">ro<am>̄</am><ex>n</ex></unclear> los castellanos 
 <lb/><am>ꝑ</am><ex>por</ex>a yr buscar al conde <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o se
 <lb/>fallaron con el enel camino</head>
@@ -26939,7 +26992,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>la uilla faziendo muchas aleg<am>ⁱ</am><ex>ri</ex>as. </ab><ab n="5800"><am>⁊</am><ex>e</ex> 
 <lb/>auie<am>̄</am><ex>n</ex> todos ta<am>̄</am><ex>n</ex> bie<am>̄</am><ex>n</ex> los g<am>ª</am><ex>ra</ex>ndes com<am>̄</am><ex>m</ex>o los 
 <lb/>menores muy g<am>ª</am><ex>ra</ex>nt plaz<am>̉</am><ex>er</ex> co<am>̄</am><ex>n</ex> su sen<am>̄</am><ex>n</ex>or⸫</ab></div>
-<lb/><div n="724" prev_="730"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vijº. de com<am>̄</am><ex>m</ex>o el rey do<am>̄</am><ex>n</ex> g<am>ª</am><ex>arçia</ex> 
+<lb/><div n="724" prev="730"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vijº. de com<am>̄</am><ex>m</ex>o el rey do<am>̄</am><ex>n</ex> g<am>ª</am><ex>arçia</ex> 
 <lb/>de nauarra uino acastiella <am>⁊</am><ex>e</ex> fue 
 <lb/>el conde ferrant <choice><abbr>gn<am>̄</am>s</abbr><expan>g<ex>o</ex>n<ex>çale</ex>s</expan></choice> lidiar con el
 <lb/><am>⁊</am><ex>e</ex> de commol prissol⸫</head>
@@ -27023,7 +27076,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>En este an<am>̄</am><ex>n</ex>o murio el <am>ppª</am><ex>papa</ex> io<am>ħ</am><ex>ha</ex>n.</ab><ab n="3200"> ¶ 
 <lb/>Et fue puesto ensu lugar esteua<am>̄</am><ex>n</ex> 
 <lb/>el vijº. </ab><ab n="3300"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c.xxv. <choice><abbr>ap<am>ł</am>igo<hi rend= "sup">s</hi></abbr><expan>ap<ex>osto</ex>ligos</expan></choice></ab></div>
-<lb/><div n="725" prev_="731"><head rend="h1" n="Rubric">Capitulo .viijº. de com<am>̄</am><ex>m</ex>o el conde
+<lb/><div n="725" prev="731"><head rend="h1" n="Rubric">Capitulo .viijº. de com<am>̄</am><ex>m</ex>o el conde
 <lb/>ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s saco dela prision al 
 <lb/>Rey don Garçia.</head>
 <note place="margin-right" resp="1">cvj</note>
@@ -27087,7 +27140,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>el cuerpo. </ab><ab n="2700">¶ Mas agora dexa la 
 <lb/>estoria de fablar desto <am>⁊</am><ex>e</ex> torna
 <lb/>aco<am>̄</am><ex>n</ex>tar del Rey don Sancho⸫</ab></div>
-<lb/><div n="726" prev_="732"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o el conde 
+<lb/><div n="726" prev="732"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o el conde 
 <lb/>ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s fue ayudar al rey de
 <lb/>leon contra los moros.</head>
 <note place="margin-left" resp="1">cvij</note>
@@ -27185,7 +27238,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>q<am>̄</am><ex>ue</ex> todos los despan<am>̄</am><ex>n</ex>a no<am>̄</am><ex>n</ex> lo podien
 <lb/>pagar.</ab> <ab n="3800">¶ Mas agora dexamos a
 <lb break="no"/>qui de fablar desto <am>⁊</am><ex>e</ex> diremos del 
-<lb/>Rey don g<am>ª</am><ex>arçia</ex> de Nauarra⸫ </ab></div><div n="727" prev_="733"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xº. 
+<lb/>Rey don g<am>ª</am><ex>arçia</ex> de Nauarra⸫ </ab></div><div n="727" prev="733"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xº. 
 <lb/>De com<am>̄</am><ex>m</ex>o el rey don g<am>ª</am><ex>arçia</ex> de nauar
 <lb break="no"/>ra corrio a<choice><abbr>casti<am>łł</am>a</abbr><expan>casti<ex>e</ex>lla</expan></choice> <am>⁊</am><ex>e</ex> lidio despues 
 <lb/>co<am>̄</am><ex>n</ex> el <am>ꝯ</am><ex>con</ex>de <am>⁊</am><ex>e</ex> fue uençudo</head>
@@ -27257,7 +27310,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>fue alli el Rey do<am>̄</am><ex>n</ex> g<am>ª</am><ex>arçia</ex> ue<am>̄</am><ex>n</ex>çudo co<am>̄</am><ex>n</ex> todo 
 <lb/>su poder. </ab><ab n="3200"><space quantity="1" unit="chars"/>Mas agora dexamos aq<am>ⁱ</am><ex>ui</ex> 
 <lb/>de fablar desto <am>⁊</am><ex>e</ex> diremos del Rey de 
-<lb/>Leon <am>⁊</am><ex>e</ex> del <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="728" prev_="734"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xjº.
+<lb/>Leon <am>⁊</am><ex>e</ex> del <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s.</ab></div><div n="728" prev="734"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xjº.
 <lb/>de com<am>̄</am><ex>m</ex>o el rey don S<am>º</am><ex>ancho</ex> de leon en
 <lb break="no"/>bio dez<am>̉</am><ex>ir</ex> al conde quel fuesse a
 <lb/>cortes oq<am>̄</am><ex>ue</ex>l dexasse el condado⸫</head>
@@ -27455,7 +27508,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>segunt <choice><abbr>ur<am>̄</am>a</abbr><expan>u<ex>uest</ex>ra</expan></choice> corte ma<am>̄</am><ex>n</ex>dare. </ab><ab n="7700">¶ Et el 
 <lb/>Rey fue muy sanudo <am>ꝯ</am><ex>con</ex>t<am>ª</am><ex>ra</ex> el <am>⁊</am><ex>e</ex> ma<am>̄</am><ex>n</ex>
 <lb break="no"/>dol luego p<am>̉</am><ex>re</ex>nder <am>⁊</am><ex>e</ex> echar enfierros⸫</ab></div>
-<lb/><div n="729" prev_="735"><head rend="h1" n="Rubric">Capitulo .xij. De commo el 
+<lb/><div n="729" prev="735"><head rend="h1" n="Rubric">Capitulo .xij. De commo el 
 <lb/>conde salio dela prision.</head>
 <note place="margin-right" resp="1">cx</note>
 <lb/><ab n="100"><hi rend="init2">Q</hi>vando los castellanos sopi
@@ -27564,7 +27617,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>oestaua<am>̄</am><ex>n</ex> los caua<am>łł</am><ex>ller</ex>os atendiendol</ab>
 <lb/><ab n="5100"><am>⁊</am><ex>e</ex> el <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> los uio ouo co<am>̄</am><ex>n</ex> ellos muy 
 <lb/>g<am>ª</am><ex>ra</ex>nt plaz<am>̉</am><ex>er</ex> com<am>̄</am><ex>m</ex>o om<am>̄</am><ex>n</ex>e q<am>̄</am><ex>ue</ex> sallie de tal 
-<lb/>logar </ab></div><div n="730" prev_="736"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiijº. De com<am>̄</am><ex>m</ex>o fizo 
+<lb/>logar </ab></div><div n="730" prev="736"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiijº. De com<am>̄</am><ex>m</ex>o fizo 
 <lb/>el rey con la condessa despues q<am>̄</am><ex>ue</ex> 
 <lb/>sopo q<am>̄</am><ex>ue</ex> era ydo el conde.</head>
 <note place="margin-left" resp="1">cxj</note>
@@ -27607,7 +27660,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>n<am>̄</am><ex>n</ex>a de ta<am>̄</am><ex>n</ex> alta g<am>ⁱ</am><ex>ui</ex>sa. </ab><ab n="2100">¶ El conde <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> la 
 <lb/>uio plogol mucho co<am>̄</am><ex>n</ex> ella </ab><ab n="2200"><am>⁊</am><ex>e</ex> touo q<am>̄</am><ex>ue</ex>l a
 <lb break="no"/>uie dios fecho m<am>̉</am><ex>er</ex>ced </ab><ab n="2300"><am>⁊</am><ex>e</ex> fuese co<am>̄</am><ex>n</ex> toda 
-<lb/>su co<am>̄</am><ex>n</ex>pan<am>̄</am><ex>n</ex>a <am>ꝑ</am><ex>por</ex>a su condado. </ab></div><div n="731" prev_="737"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb/>su co<am>̄</am><ex>n</ex>pan<am>̄</am><ex>n</ex>a <am>ꝑ</am><ex>por</ex>a su condado. </ab></div><div n="731" prev="737"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>xiiij. de com<am>̄</am><ex>m</ex>o el conde ferrant g<am>ᵉ</am><ex>onçale</ex>s en
 <lb break="no"/>bio pedir su au<am>̉</am><ex>er</ex> al rey don sancho. <am>⁊</am><ex>e</ex> 
 <lb/>de com<am>̄</am><ex>m</ex>ol dio el rey el condado en
@@ -27659,7 +27712,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>gar jo<am>ħ</am><ex>ha</ex>n el xº. </ab><ab n="2500"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c.xxvj. 
 <lb/><choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>. </ab><ab n="2600"><space quantity="1" unit="chars"/>Mas agora dexamos 
 <lb/>aq<am>ⁱ</am><ex>ui</ex> de fablar del co<am>̄</am><ex>n</ex>de ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> di
-<lb break="no"/>remos del Rey don S<am>º</am><ex>ancho</ex>. </ab></div><div n="732" prev_="738"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvº 
+<lb break="no"/>remos del Rey don S<am>º</am><ex>ancho</ex>. </ab></div><div n="732" prev="738"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvº 
 <lb/>de com<am>̄</am><ex>m</ex>o el rey don sanc<am>ħ</am><ex>ho</ex> enbio pe
 <lb break="no"/>dir el cuerpo de sa<am>̄</am><ex>n</ex>t pelayo abder
 <lb break="no"/>raheme<am>̄</am><ex>n</ex> rey de cordoua.</head>
@@ -27692,7 +27745,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>estoria <am>ꝑ</am><ex>per</ex>tenesca. </ab><ab n="900">sino<am>̄</am><ex>n</ex> ta<am>̄</am><ex>n</ex>to q<am>̄</am><ex>ue</ex> en<am>ł</am><ex>el</ex> 
 <lb/>ixº. murio el em<am>ꝑ</am><ex>per</ex>ador enric. </ab><ab n="1000">¶ Et 
 <lb/>Regno enpos el su fijo oto el p<am>ⁱ</am><ex>ri</ex>me
-<lb break="no"/>ro. xxxvj. an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="733" prev_="739"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvj. de co
+<lb break="no"/>ro. xxxvj. an<am>̄</am><ex>n</ex>os⸫ </ab></div><div n="733" prev="739"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvj. de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>o el rey don sancho fue <am>ꝯ</am><ex>con</ex><am>ª</am><ex>tra</ex> los 
 <lb/>gallegos <am>⁊</am><ex>e</ex> los amanso⸫</head>
 <note place="margin-right" resp="1">cxiiij</note>
@@ -27728,7 +27781,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>chas ensu Regno. </ab><ab n="1400">¶ En este an<am>̄</am><ex>n</ex>o 
 <lb/>otrossi murio el <am>ppª</am><ex>papa</ex> leo<am>̄</am><ex>n</ex> </ab><ab n="1500"><am>⁊</am><ex>e</ex> fue pues
 <lb break="no"/>to ensu lugar esteua<am>̄</am><ex>n</ex> el viijº </ab><ab n="1600"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> 
-<lb/>con el .c.xxviijº. apostoligos⸫ </ab></div><div n="734" prev_="740"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>
+<lb/>con el .c.xxviijº. apostoligos⸫ </ab></div><div n="734" prev="740"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>
 <lb/>xvij. de com<am>̄</am><ex>m</ex>o murio el rey do<am>̄</am><ex>n</ex> S<am>º</am><ex>ancho</ex></head>
 <note place="margin-left" resp="1">cxv</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .xij. an<am>̄</am><ex>n</ex>os del Regna
@@ -27758,7 +27811,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>se mal de muerte </ab><ab n="1800"><am>⁊</am><ex>e</ex> en lleua<am>̄</am><ex>n</ex>dol <am>ꝑ</am><ex>por</ex>a 
 <lb/>leo<am>̄</am><ex>n</ex> murio se enla carrera </ab><ab n="2400"><am>⁊</am><ex>e</ex> fue en
 <lb break="no"/>t<am>̉</am><ex>er</ex>rado en sant saluador çerca desu
-<lb/>padre⸫ </ab></div><div n="735" prev_="742"><head rend="h1" n="Rubric">El regnado del iijº rey do<am>̄</am><ex>n</ex> 
+<lb/>padre⸫ </ab></div><div n="735" prev="742"><head rend="h1" n="Rubric">El regnado del iijº rey do<am>̄</am><ex>n</ex> 
 <lb/>ramiro q<am>̄</am><ex>ue</ex> regno xxº despues del 
 <lb/>rey don pelayo se comiença. Ca
 <lb break="no"/>pitulo p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex>o de com<am>̄</am><ex>m</ex>o enel p<am>ⁱ</am><ex>ri</ex>mero
@@ -27799,7 +27852,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>enbiara </ab><ab n="1000"><am>⁊</am><ex>e</ex> pusol en aq<am>̄</am><ex>ue</ex>l monest<am>̉</am><ex>er</ex>io q<am>̄</am><ex>ue</ex> fu
 <lb break="no"/>era fecho <am>ꝑ</am><ex>por</ex>a el </ab><ab n="1100"><am>⁊</am><ex>e</ex> ent<am>̉</am><ex>er</ex>rol çerca otros cuer
 <lb break="no"/>pos de muc<am>ħ</am><ex>ho</ex>s o<am>ƀ</am><ex>bis</ex>pos onrrados q<am>̄</am><ex>ue</ex> yazie<am>̄</am><ex>n</ex> 
-<lb/>y. </ab></div><div n="736" prev_="743"><ab n="100">¶ Pues q<am>̄</am><ex>ue</ex>los moros ouiero<am>̄</am><ex>n</ex> paz 
+<lb/>y. </ab></div><div n="736" prev="743"><ab n="100">¶ Pues q<am>̄</am><ex>ue</ex>los moros ouiero<am>̄</am><ex>n</ex> paz 
 <lb/>affirmada con el Rey do<am>̄</am><ex>n</ex> Ramiro <am>⁊</am><ex>e</ex> fu
 <lb break="no"/>ero<am>̄</am><ex>n</ex> seguros del q<am>̄</am><ex>ue</ex> no<am>̄</am><ex>n</ex> ayudarie alos 
 <lb/>castellanos. nj<am>̄</am><ex>n</ex> los acorrerie sacaro<am>̄</am><ex>n</ex>
@@ -27816,7 +27869,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><ab n="600">¶ Et <choice><abbr>qn<am>̄</am>o</abbr><expan>q<ex>ua</ex>n<ex>d</ex>o</expan></choice> los moros se uiero<am>̄</am><ex>n</ex> ta<am>̄</am><ex>n</ex> bie<am>̄</am><ex>n</ex> 
 <lb/>anda<am>̄</am><ex>n</ex>tes q<am>̄</am><ex>ue</ex>b<am>ª</am><ex>ra</ex>ntaron la postura q<am>̄</am><ex>ue</ex> aui
 <lb break="no"/>en co<am>̄</am><ex>n</ex> el Rey don Ramiro </ab><ab n="700"><am>⁊</am><ex>e</ex> fueronse 
-<lb/><am>ꝑ</am><ex>por</ex>a çamora <am>⁊</am><ex>e</ex> destruyero<am>̄</am><ex>n</ex> la toda⸫ </ab></div><div n="737" prev_="744"><head rend="h1" n="Rubric">Ca
+<lb/><am>ꝑ</am><ex>por</ex>a çamora <am>⁊</am><ex>e</ex> destruyero<am>̄</am><ex>n</ex> la toda⸫ </ab></div><div n="737" prev="744"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>p<am>ł</am><ex>itul</ex>o ijº de com<am>̄</am><ex>m</ex>o los normanos roba
 <lb break="no"/>ron gallizia <am>⁊</am><ex>e</ex> dela muert<am>̄</am><ex>e</ex> de abderra
 <lb break="no"/>hemen. <note type="ed" resp="RPG">Escrito en el margen izquierdo</note></head>
@@ -27855,7 +27908,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>de armas. </ab><ab n="1800">¶ En este an<am>̄</am><ex>n</ex>o otrossi
 <lb/>murio el <am>ppª</am><ex>papa</ex> esteua<am>̄</am><ex>n</ex> </ab><ab n="1900"><am>⁊</am><ex>e</ex> pusiero<am>̄</am><ex>n</ex> ensu 
 <lb/>lugar amarti<am>̄</am><ex>n</ex> el segundo </ab><ab n="2000"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> 
-<lb/>con el .c.xxix <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>⸫ </ab></div><div n="738" prev_="745"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iijº. 
+<lb/>con el .c.xxix <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>⸫ </ab></div><div n="738" prev="745"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iijº. 
 <lb/>de com<am>̄</am><ex>m</ex>o el co<am>̄</am><ex>n</ex>de g<am>º</am><ex>onçalo</ex> sanc<am>ħ</am><ex>he</ex>s lidio co<am>̄</am><ex>n</ex> los 
 <lb/>normanos <am>⁊</am><ex>e</ex> los mato <am>⁊</am><ex>e</ex> dela muer
 <lb break="no"/>te del conde ferrant goncalez.</head>
@@ -27885,7 +27938,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>ellos despoiara<am>̄</am><ex>n</ex> fuero<am>̄</am><ex>n</ex> ue<am>̄</am><ex>n</ex>çudos <am>⁊</am><ex>e</ex> as
 <lb break="no"/>tragados <am>⁊</am><ex>e</ex> moriero<am>̄</am><ex>n</ex> y todos co<am>̄</am><ex>n</ex> su rey</ab>
 <lb/><ab n="1200"><am>⁊</am><ex>e</ex> el <am>ꝯ</am><ex>con</ex>de q<am>̄</am><ex>ue</ex>moles todas las Naues.</ab></div>
-<lb/><div n="739" prev_n="746"><ab n="600">¶ En este tie<am>̄</am><ex>n</ex>po murio el <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t
+<lb/><div n="739" prev="746"><ab n="600">¶ En este tie<am>̄</am><ex>n</ex>po murio el <am>ꝯ</am><ex>con</ex>de ferra<am>̄</am><ex>n</ex>t
 <lb/>g<am>ᵉ</am><ex>onçale</ex>s de su muert<am>̄</am><ex>e</ex> <am>⁊</am><ex>e</ex> ensu lecho <am>⁊</am><ex>e</ex> enla
 <lb/>çibdat de burgos auiendo el muc<am>ħ</am><ex>ho</ex>
 <lb/>trabaiado. auiendo el mu<am>̄</am><ex>n</ex>do trabaia
@@ -27928,7 +27981,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>ala estoria <am>ꝑ</am><ex>per</ex>tenesca si no<am>̄</am><ex>n</ex> tanto q<am>̄</am><ex>ue</ex> en
 <lb/>el ixº murio el <am>ppª</am><ex>papa</ex> m<am>̉</am><ex>artin</ex>. <am>⁊</am><ex>e</ex> pusiero<am>̄</am><ex>n</ex> ensu
 <lb/>lugar a agapito <am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el c. <am>⁊</am><ex>e</ex> xxx.
-<lb/>apostoligos⸫ </ab></div><div n="740" prev_n="748"><head rend="h1" n="Rubric">Capitulo q<am>ª</am><ex>ua</ex>rto del mira
+<lb/>apostoligos⸫ </ab></div><div n="740" prev="748"><head rend="h1" n="Rubric">Capitulo q<am>ª</am><ex>ua</ex>rto del mira
 <lb break="no"/>glo q<am>̄</am><ex>ue</ex>dios fizo aun caua<am>łł</am><ex>ller</ex>o del conde
 <lb/>garçi ferrandes enla fazienda q<am>̄</am><ex>ue</ex> el o
 <lb break="no"/>uo con los moros en sant esteuan
@@ -28056,7 +28109,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>gel enfig<am>᷑</am><ex>ur</ex>a q<am>̄</am><ex>ue</ex> lidiasse por el <am>⁊</am><ex>e</ex> di
 <lb break="no"/>ero<am>̄</am><ex>n</ex> loor <am>⁊</am><ex>e</ex> <choice><abbr>gr<am>̄</am>as</abbr><expan>gr<ex>açi</ex>as</expan></choice> a<choice><abbr>nr<am>̄</am>o</abbr><expan>n<ex>uest</ex>ro</expan></choice> sen<am>̄</am><ex>n</ex>or. <am>⁊</am><ex>e</ex> 
 <lb/>a<choice><abbr>sc<am>̄</am>a</abbr><expan>s<ex>an</ex>c<ex>t</ex>a</expan></choice> M<am>ª</am><ex>aria</ex> su madre por este mira
-<lb break="no"/>glo q<am>̄</am><ex>ue</ex> auie fecho. </ab></div><div n="741" prev_n="748"><head rend="h1" n="Rubric">Capitulo .vº.   <note place="margin-right" resp="1">cxx</note>
+<lb break="no"/>glo q<am>̄</am><ex>ue</ex> auie fecho. </ab></div><div n="741" prev="748"><head rend="h1" n="Rubric">Capitulo .vº.   <note place="margin-right" resp="1">cxx</note>
 <lb/>de com<am>̄</am><ex>m</ex>o el conde g<am>ª</am><ex>arçia</ex> <choice><abbr>frr<am>̄</am>s</abbr><expan>f<ex>e</ex>rr<ex>ande</ex>s</expan></choice> caso con
 <lb/>la p<am>ⁱ</am><ex>ri</ex>mera mug<am>̉</am><ex>e</ex>r delas dos q<am>̄</am><ex>ue</ex> ouo</head>
 <lb/><ab n="100"><hi rend="init2">E</hi>ste conde g<am>ª</am><ex>arçia</ex> <choice><abbr>frr<am>̄</am>s</abbr><expan>f<ex>e</ex>rr<ex>ande</ex>s</expan></choice> q<am>̄</am><ex>ue</ex> uos 
@@ -28086,7 +28139,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>asu padre <am>⁊</am><ex>e</ex> asu madre <am>ꝑ</am><ex>por</ex>a casa
 <lb break="no"/>mie<am>̄</am><ex>n</ex>to <am>⁊</am><ex>e</ex> caso co<am>̄</am><ex>n</ex> ella <am>⁊</am><ex>e</ex> uisco co<am>̄</am><ex>n</ex> ella 
 <lb/>vj. an<am>̄</am><ex>n</ex>os <am>⁊</am><ex>e</ex> no<am>̄</am><ex>n</ex> ouiero<am>̄</am><ex>n</ex> fijo nj<am>̄</am><ex>n</ex> fija
-<lb/>¶ Et ella sallio mala muger∴</ab></div><div n="742" prev_n="748"><head rend="h1" n="Rubric">Capitulo .vj. de com<am>̄</am><ex>m</ex>o un conde de
+<lb/>¶ Et ella sallio mala muger∴</ab></div><div n="742" prev="748"><head rend="h1" n="Rubric">Capitulo .vj. de com<am>̄</am><ex>m</ex>o un conde de
 <lb/>fra<am>̄</am><ex>n</ex>çia lleuo adon<am>̄</am><ex>n</ex>a arge<am>̄</am><ex>n</ex>tina mu
 <lb break="no"/>ger del conde g<am>ª</am><ex>arçia</ex> <choice><abbr>frr<am>̄</am>s</abbr><expan>f<ex>e</ex>rr<ex>ande</ex>s</expan></choice> <am>⁊</am><ex>e</ex> en com<am>̄</am><ex>m</ex>o los fue buscar</head>
 <note place="margin-right" resp="1">cxxj</note>
@@ -28226,7 +28279,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <rdg type="lit">m<seg type="overwritten"><seg type="1">u</seg><seg type="2">a</seg></seg>rido</rdg>
 <rdg type="orig">murido</rdg>
 <rdg type="mod">marido</rdg>
-</app> <am>⁊</am><ex>e</ex> por muger⸫</ab></div><div n="743" prev_n="748"><head rend="h1" n="Rubric">Capitulo vijº
+</app> <am>⁊</am><ex>e</ex> por muger⸫</ab></div><div n="743" prev="748"><head rend="h1" n="Rubric">Capitulo vijº
 <lb/>De com<am>̄</am><ex>m</ex>o don<am>̄</am><ex>n</ex>a S<am>ª</am><ex>ancha</ex> fija del conde de
 <lb/>françia guiso com<am>̄</am><ex>m</ex>o matasse el co<am>̄</am><ex>n</ex>
 <lb break="no"/>de garçi ferrandez asu padre <am>⁊</am><ex>e</ex> a
@@ -28335,7 +28388,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>co<am>̄</am><ex>n</ex> los Reyes de leon. <am>⁊</am><ex>e</ex> tiro ent<am>̉</am><ex>re</ex> 
 <lb/>si <am>⁊</am><ex>e</ex> ellos la tristeza q<am>̄</am><ex>ue</ex> y entrara
 <lb/>por su padre el conde ferra<am>̄</am><ex>n</ex>t g<am>ᵉ</am><ex>onçale</ex>s⸫</ab></div>
-<lb/><div n="744" prev_="749"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o viijº. de com<am>̄</am><ex>m</ex>o caso el Rey do<am>̄</am><ex>n</ex>   <note place="margin-right" resp="1">cxxi<unclear reason="damage">ij</unclear></note>
+<lb/><div n="744" prev="749"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o viijº. de com<am>̄</am><ex>m</ex>o caso el Rey do<am>̄</am><ex>n</ex>   <note place="margin-right" resp="1">cxxi<unclear reason="damage">ij</unclear></note>
 <lb/>ramiro <am>⁊</am><ex>e</ex> del alborço delos condes</head>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .ix an<am>̄</am><ex>n</ex>os del Regna
 <lb break="no"/>do del Rey don Ramiro q<am>̄</am><ex>ue</ex> 
@@ -28362,7 +28415,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>en el xiijº murio haca<am>̄</am><ex>m</ex> Rey de cor
 <lb break="no"/>doua. </ab><ab n="700">¶ Et Regno enpos el su fi
 <lb break="no"/>io yssem desta p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex>a uez xxx. <am>⁊</am><ex>e</ex>
-<lb/>iij. an<am>̄</am><ex>n</ex>os <am>⁊</am><ex>e</ex> qtro meses⸫ </ab></div><div n="745" prev_="750"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb/>iij. an<am>̄</am><ex>n</ex>os <am>⁊</am><ex>e</ex> qtro meses⸫ </ab></div><div n="745" prev="750"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>ixº de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor fue puesto por 
 <lb/>ayudador del rey ysem enel regno
 <lb/><am>⁊</am><ex>e</ex> dunas cosas quel co<am>̄</am><ex>n</ex>tesçiero<am>̄</am><ex>n</ex> con 
@@ -28501,7 +28554,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>ente enla estoria <am>⁊</am><ex>e</ex> enlos lugares 
 <lb/>olo ouieremos de dezir </ab><ab n="4700"><am>⁊</am><ex>e</ex> tornare
 <lb break="no"/>mos acontar del Rey don Ramiro.</ab></div>
-<div n="746" prev_="751"><lb/><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xº De com<am>̄</am><ex>m</ex>o los condes de 
+<div n="746" prev="751"><lb/><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xº De com<am>̄</am><ex>m</ex>o los condes de 
 <lb/>gallizia alçaro<am>̄</am><ex>n</ex> por rey adon u<am>̉</am><ex>er</ex>mu
 <lb break="no"/>do <am>⁊</am><ex>e</ex> dela batalla q<am>̄</am><ex>ue</ex> ouiero<am>̄</am><ex>n</ex> entrel 
 <lb/>rey don Ramiro <am>⁊</am><ex>e</ex> el⸫</head>
@@ -28571,7 +28624,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>los vij. jnfantes de Salas </ab><ab n="2400">de com<am>̄</am><ex>m</ex>o 
 <lb/>fuero<am>̄</am><ex>n</ex> traydos <am>⁊</am><ex>e</ex> muertos en <choice><abbr>tp<am>̄</am>o</abbr><expan>t<ex>ien</ex>po</expan></choice> deste 
 <lb/>Rey don Ramiro <am>⁊</am><ex>e</ex> de garçi ferrandez 
-<lb/>conde de Castiella. </ab></div><div n="747" prev_="752"><head rend="h1" n="Rubric">Capitulo .xj. 
+<lb/>conde de Castiella. </ab></div><div n="747" prev="752"><head rend="h1" n="Rubric">Capitulo .xj. 
 <lb/>De com<am>̄</am><ex>m</ex>o Ruy blasq<am>̄</am><ex>ue</ex>z de alfoz de 
 <lb/>lara firio asu sobrino g<am>º</am><ex>onçalo</ex> g<am>ᵉ</am><ex>onçale</ex>s <am>⁊</am><ex>e</ex> su so
 <lb break="no"/>brino ael <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o los fizo <am>ꝑ</am><ex>per</ex>donar 
@@ -28783,7 +28836,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>mas por uos. ¶ Ca ellos <choice><abbr>ur<am>̄</am>os</abbr><expan>u<ex>uest</ex>ros</expan></choice> sob<am>ⁱ</am><ex>ri</ex>nos 
 <lb/>son </ab><ab n="7300"><am>⁊</am><ex>e</ex> no<am>̄</am><ex>n</ex> an de faz<am>̉</am><ex>er</ex> al si no<am>̄</am><ex>n</ex> lo q<am>̄</am><ex>ue</ex> uos ma<am>̄</am><ex>n</ex>
 <lb break="no"/>daredes <am>⁊</am><ex>e</ex> touieredes por bie<am>̄</am><ex>n</ex>. </ab><ab n="7400"><am>⁊</am><ex>e</ex> el otor
-<lb break="no"/>gol q<am>̄</am><ex>ue</ex> assi lo farie⸫ </ab></div><div n="748" prev_="753"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xij. de co
+<lb break="no"/>gol q<am>̄</am><ex>ue</ex> assi lo farie⸫ </ab></div><div n="748" prev="753"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xij. de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>o los siete jnfantes mataron al 
 <lb/>uasallo de donna lambla⸫</head>
 <note place="margin-left" resp="1">cxxlij</note>
@@ -28916,7 +28969,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>uie marido. </ab><ab n="5100">¶ Mas agora dexamos 
 <lb/>aqui de fablar de donna lambla
 <lb/><am>⁊</am><ex>e</ex> diremos de do<am>̄</am><ex>n</ex> R<am>º</am><ex>odrigo</ex> su marido <am>⁊</am><ex>e</ex> don g<am>º</am><ex>onçalo</ex> 
-<lb/>gustioz⸫ </ab></div><div n="749" prev_="754"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº. de com<am>̄</am><ex>m</ex>o al
+<lb/>gustioz⸫ </ab></div><div n="749" prev="754"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº. de com<am>̄</am><ex>m</ex>o al
 <lb break="no"/>ma<am>̄</am><ex>n</ex>çor p<am>ⁱ</am><ex>ri</ex>so a gonçalo gustioz en cor
 <lb break="no"/>doua por conseio <app>
 <rdg type="lit">de<seg type="er"><seg type="1">l</seg><seg type="2"><hi rend="ud">l</hi></seg></seg></rdg>
@@ -29107,7 +29160,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>lo contaremos adelante enla estoria</ab>
 <lb/><ab n="7800">¶ Mas agora dexamos aqui de fab
 <lb break="no"/>lar desta Razon <am>⁊</am><ex>e</ex> diremos de Ruy 
-<lb/>blasquez <am>⁊</am><ex>e</ex> de almançor⸫ </ab></div><div n="750" prev_="755"><head rend="h1" n="Rubric">Capit<am>ł</am><ex>ul</ex>o
+<lb/>blasquez <am>⁊</am><ex>e</ex> de almançor⸫ </ab></div><div n="750" prev="755"><head rend="h1" n="Rubric">Capit<am>ł</am><ex>ul</ex>o
 <lb/>xiiij. de com<am>̄</am><ex>m</ex>o ruy blasq<am>̄</am><ex>ue</ex>s saco su 
 <lb/>hueste <am>⁊</am><ex>e</ex> lleuo co<am>̄</am><ex>n</ex>sigo los vij. jnfa<am>̄</am><ex>n</ex>tes</head>   <note place="margin-left" resp="1">cxxix.</note>
 <lb/><ab n="100"><hi rend="init3">P</hi>ves que Ruy blasq<am>̄</am><ex>ue</ex>z ouo e<am>̄</am><ex>n</ex>bia
@@ -29243,7 +29296,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <cb n="a"/>
 <lb/>adon mun<am>̄</am><ex>n</ex>o salido yr por su cami
 <lb break="no"/>no <am>⁊</am><ex>e</ex> digamos delos siete infa<am>̄</am><ex>n</ex>tes.</ab></div>
-<lb/><div n="751" prev_="756"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvº. De com<am>̄</am><ex>m</ex>o Ruy blas
+<lb/><div n="751" prev="756"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xvº. De com<am>̄</am><ex>m</ex>o Ruy blas
 <lb break="no"/>quez menazo amun<am>̄</am><ex>n</ex>o salido <am>⁊</am><ex>e</ex> se
 <lb/>ouieran de matar unos co<am>̄</am><ex>n</ex> otros.</head>
 <note place="margin-left" resp="1">cxxx</note>
@@ -29348,7 +29401,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>podrie ende escapar sise estonçes 
 <lb/>boluiesse<am>̄</am><ex>n</ex> dixol q<am>̄</am><ex>ue</ex>l plazie muc<am>ħ</am><ex>ho</ex> 
 <lb/>delo q<am>̄</am><ex>ue</ex> dizie <am>⁊</am><ex>e</ex> aquello tenie por 
-<lb/>bien⸫ </ab></div><div n="752" prev_="757"><head rend="h1" n="Rubric">Capitulo xvjº. de com<am>̄</am><ex>m</ex>o lidi
+<lb/>bien⸫ </ab></div><div n="752" prev="757"><head rend="h1" n="Rubric">Capitulo xvjº. de com<am>̄</am><ex>m</ex>o lidi
 <lb break="no"/>aro<am>̄</am><ex>n</ex> los moros con los <choice><abbr><am>xⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice> <am>⁊</am><ex>e</ex> m
 <lb break="no"/>urio y mun<am>̄</am><ex>n</ex>o salido <am>⁊</am><ex>e</ex> los .cc. cau
 <lb break="no"/>a<am>łł</am><ex>ller</ex>os <am>⁊</am><ex>e</ex> ferrat g<am>ᵉ</am><ex>onçale</ex>s el uno delos j<am>̄</am><ex>n</ex>fa<am>̄</am><ex>n</ex>te<hi rend= "sup">s</hi></head>
@@ -29511,7 +29564,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>uo <am>⁊</am><ex>e</ex> del sudor <am>⁊</am><ex>e</ex> cataron por su <am>ħ</am><ex>her</ex>man<am>̄</am><ex>o</ex> 
 <lb/><am>⁊</am><ex>e</ex> nol uiero<am>̄</am><ex>n</ex> pesoles muc<am>ħ</am><ex>ho</ex> de coraçon. 
 <lb/>ca bie<am>̄</am><ex>n</ex> entendiero<am>̄</am><ex>n</ex> q<am>̄</am><ex>ue</ex> muerto era⸫ </ab></div>
-<lb/><div n="753" prev_="758"><head rend="h1" n="Rubric">Ca
+<lb/><div n="753" prev="758"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>p<am>ł</am><ex>itul</ex>o xvijº. de com<am>̄</am><ex>m</ex>o muriero<am>̄</am><ex>n</ex> los vij 
 <lb/>infantes <am>⁊</am><ex>e</ex> los ccc. caua<am>łł</am><ex>ller</ex>os q<am>̄</am><ex>ue</ex>les fue
 <lb break="no"/>ra<am>̄</am><ex>n</ex> ayudar. <note type="ed" resp="RPG">Esta secuencia fue añadida en el margen izquierdo</note></head>
@@ -29700,7 +29753,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>maro<am>̄</am><ex>n</ex> las cabesças delos vij. Jn
 <lb break="no"/>fantes <am>⁊</am><ex>e</ex> la de Mun<am>̄</am><ex>n</ex>o sallido <am>⁊</am><ex>e</ex> fu
 <lb break="no"/>eronse con ellas <am>ꝑ</am><ex>por</ex>a Cordoua⸫</ab></div>
-<lb/><div n="754" prev_="759"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xviijº. de com<am>̄</am><ex>m</ex>o sallio gon
+<lb/><div n="754" prev="759"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xviijº. de com<am>̄</am><ex>m</ex>o sallio gon
 <lb break="no"/>çalo gustioz dela p<am>ⁱ</am><ex>ri</ex>sion <am>⁊</am><ex>e</ex> se fue 
 <lb/>para salas</head>
 <note place="margin-right" resp="1">cxxxiij</note>
@@ -29848,7 +29901,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <cb n="b"/>
 
 <lb/>lugar </ab><ab n="6800"><am>⁊</am><ex>e</ex> diremos del Rey do<am>̄</am><ex>n</ex> Ramiro.</ab></div>
-<lb/><div n="755" prev_="760"><head rend="h1" n="Rubric">Capitulo xix. dela muerte del rey 
+<lb/><div n="755" prev="760"><head rend="h1" n="Rubric">Capitulo xix. dela muerte del rey 
 <lb/>don ramiro <am>⁊</am><ex>e</ex> delos moros q<am>̄</am><ex>ue</ex> corrieron
 <lb/><choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de portogal fasta en santiago</head>
 <note place="margin-right" resp="1">cxxxiiij</note>
@@ -29866,7 +29919,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>enfermedat enlos moros q<am>̄</am><ex>ue</ex> moriero<am>̄</am><ex>n</ex>
 <lb/>todos los mas dellos </ab><ab n="800">de g<am>ⁱ</am><ex>ui</ex>sa q<am>̄</am><ex>ue</ex> no<am>̄</am><ex>n</ex> es
 <lb break="no"/>caparon ende si no<am>̄</am><ex>n</ex> muy pocos onj<am>̄</am><ex>n</ex>guno<hi rend= "sup">s</hi> 
-<lb/>q<am>̄</am><ex>ue</ex> co<am>̄</am><ex>n</ex>tassen las nueuas ensu <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice>⸫ </ab></div><div n="756" prev_="762"><head rend="h1" n="Rubric">¶
+<lb/>q<am>̄</am><ex>ue</ex> co<am>̄</am><ex>n</ex>tassen las nueuas ensu <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice>⸫ </ab></div><div n="756" prev="762"><head rend="h1" n="Rubric">¶
 <lb/>El regnado del ijº rey don u<am>̉</am><ex>er</ex>mudo que
 <lb/>regno xxj. despues del rey don pelayo 
 <lb/>se comiença. Capitulo p<am>ⁱ</am><ex>ri</ex>mero de co
@@ -30009,7 +30062,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>esto uiero<am>̄</am><ex>n</ex> entendiero<am>̄</am><ex>n</ex> q<am>̄</am><ex>ue</ex> de dios 
 <lb/>uinie este fec<am>ħ</am><ex>ho</ex> <am>⁊</am><ex>e</ex> ent<am>̉</am><ex>er</ex>raron le en a
 <lb break="no"/>q<am>̄</am><ex>ue</ex>lla misma yg<am>ł</am><ex>les</ex>ia de <choice><abbr>sc<am>̄</am>a</abbr><expan>s<ex>an</ex>c<ex>t</ex>a</expan></choice> olalla⸫ </ab></div>
-<lb/><div n="757" prev_="763"><head rend="h1" n="Rubric">Capitulo ijº delas mug<am>̄</am><ex>ere</ex>s q<am>̄</am><ex>ue</ex> ouo el 
+<lb/><div n="757" prev="763"><head rend="h1" n="Rubric">Capitulo ijº delas mug<am>̄</am><ex>ere</ex>s q<am>̄</am><ex>ue</ex> ouo el 
 <lb/>Rey do<am>̄</am><ex>n</ex> uermudo</head>
 <note place="margin-right" resp="1">cxxxlj</note>
 <lb/><ab n="100"><hi rend="init2">E</hi>ste Rey don u<am>̉</am><ex>er</ex>mudo ouo por 
@@ -30057,7 +30110,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>egnado del Rey do<am>̄</am><ex>n</ex> u<am>̉</am><ex>er</ex>mudo no<am>̄</am><ex>n</ex> fallam
 <lb break="no"/>os nj<am>̄</am><ex>n</ex>guna cosa q<am>̄</am><ex>ue</ex> de co<am>̄</am><ex>n</ex>tar sea q<am>̄</am><ex>ue</ex> ala
 <lb/>estoria <am>ꝑ</am><ex>per</ex>tenesca. </ab><ab n="2100">ca so estas cosas 
-<lb/>todas passo⸫ </ab></div><div n="758" prev_="764"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iijº. De com<am>̄</am><ex>m</ex>o 
+<lb/>todas passo⸫ </ab></div><div n="758" prev="764"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iijº. De com<am>̄</am><ex>m</ex>o 
 <lb/>alma<am>̄</am><ex>n</ex>çor lidio con el rey don u<am>̉</am><ex>er</ex>mudo 
 <lb/>yl ue<am>̄</am><ex>n</ex>çio <am>⁊</am><ex>e</ex> llego fasta leon.</head>
 <note place="margin-left" resp="1">cxxxvij</note>
@@ -30173,7 +30226,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>çibdadanos de leo<am>̄</am><ex>n</ex> tomaro<am>̄</am><ex>n</ex> el cuerpo del o<am>ƀ</am><ex>bis</ex>po 
 <lb/>sant froylano <am>⁊</am><ex>e</ex> lleuaro<am>̄</am><ex>n</ex> le fasta los mo<am>̄</am><ex>n</ex>
 <lb break="no"/>tes pirineos </ab><ab n="3900"><am>⁊</am><ex>e</ex> pusiero<am>̄</am><ex>n</ex> le y enla yg<am>ł</am><ex>les</ex>ia 
-<lb/>desant i<am>º.</am><ex>ohan</ex> apostol. </ab></div><div n="759" prev_="765"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iiijº. de co
+<lb/>desant i<am>º.</am><ex>ohan</ex> apostol. </ab></div><div n="759" prev="765"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o iiijº. de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor ç<am>̉</am><ex>er</ex>co la çibdat de leon.</head> 
 <note place="margin-right" resp="1">cxxxviij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados q<am>ª</am><ex>ua</ex>tro an<am>̄</am><ex>n</ex>os del Regnado del 
@@ -30186,7 +30239,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>alma<am>̄</am><ex>n</ex>çor <am>⁊</am><ex>e</ex> uio q<am>̄</am><ex>ue</ex>no<am>̄</am><ex>n</ex> podie salir <am>ꝯ</am><ex>con</ex>t<am>ª</am><ex>ra</ex> el fi
 <lb break="no"/>zo se lleuar aouiedo. </ab><ab n="500">¶ Et alma<am>̄</am><ex>n</ex>çor y
 <lb break="no"/>oguo esto<am>̄</am><ex>n</ex>çes sobre la çibdat muy por
-<lb break="no"/>fiosa miente⸫ </ab></div><div n="760" prev_="766"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o al
+<lb break="no"/>fiosa miente⸫ </ab></div><div n="760" prev="766"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o al
 <lb break="no"/>ma<am>̄</am><ex>n</ex>çor p<am>ⁱ</am><ex>ri</ex>so la çibdat de leo<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> derribo las
 <lb/>torres del muro⸫</head>
 <note place="margin-right" resp="1">cxxxjx</note>
@@ -30226,7 +30279,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>erta es<am>ꝯ</am><ex>con</ex>t<am>ª</am><ex>ra</ex> septe<am>̄</am><ex>n</ex>t<am>ⁱ</am><ex>ri</ex>on. </ab><ab n="1100"><am>⁊</am><ex>e</ex> por Rememb<am>ª</am><ex>ra</ex>n
 <lb break="no"/>ça delos q<am>̄</am><ex>ue</ex>u<am>̉</am><ex>er</ex>nien despues. </ab><ab n="1200"><am>⁊</am><ex>e</ex> torno 
 <lb/>se <am>ꝑ</am><ex>por</ex>a cordoua bie<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> ondradamie<am>̄</am><ex>n</ex>te⸫</ab></div>
-<lb/><div n="761" prev_="767"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vjº. de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor uino 
+<lb/><div n="761" prev="767"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vjº. de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor uino 
 <lb/>correr <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de <choice><abbr><am>xⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice> <am>⁊</am><ex>e</ex> p<am>ⁱ</am><ex>ri</ex>so a astorga.</head>
 <note place="margin-left" resp="1">cxl</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .vj. an<am>̄</am><ex>n</ex>os del Regnado 
@@ -30250,7 +30303,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>xxxvj. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>. </ab><ab n="1100">¶ Mas agora de
 <lb break="no"/>xamos aq<am>ⁱ</am><ex>ui</ex> de fablar desto <am>⁊</am><ex>e</ex> dire
 <lb break="no"/>mos de Mudarra g<am>ᵉ</am><ex>onçale</ex>s fijo de g<am>º</am><ex>onçalo</ex> g<am>ꝰ</am><ex>us</ex>
-<lb break="no"/>tioz⸫ </ab></div><div n="762" prev_="768"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vijº. de com<am>̄</am><ex>m</ex>o mudar
+<lb break="no"/>tioz⸫ </ab></div><div n="762" prev="768"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vijº. de com<am>̄</am><ex>m</ex>o mudar
 
 <cb n="b"/>
 
@@ -30384,7 +30437,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <cb n="a"/>
 
 <lb/>el p<am>ⁱ</am><ex>ri</ex>m<am>̉</am><ex>er</ex>o. </ab><ab n="5600">¶ Et Regno enpos el Oto 
-<lb/>el segundo .x. annos. </ab></div><div n="763" prev_="769"><head rend="h1" n="Rubric">Capitulo   
+<lb/>el segundo .x. annos. </ab></div><div n="763" prev="769"><head rend="h1" n="Rubric">Capitulo   
 <note place="margin-left" resp="1">cxlij</note>
 <lb/>viijº. de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor uino dos 
 <lb/>uezes correr <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de <choice><abbr><am>xⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice></head>
@@ -30406,7 +30459,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>cia. </ab><ab n="900">¶ Esse an<am>̄</am><ex>n</ex>o murio el <am>ppª</am><ex>papa</ex> bonifa
 <lb break="no"/>çio. </ab><ab n="1000"><am>⁊</am><ex>e</ex> pusiero<am>̄</am><ex>n</ex> ensu lugar aB<am>º</am><ex>enito</ex> el vijº</ab>
 <lb/><ab n="1100"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> con el .c.xxx.viij. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice></ab></div>
-<lb/><div n="764" prev_="770"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor cor
+<lb/><div n="764" prev="770"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor cor
 <lb break="no"/>rio <choice><abbr>casti<am>łł</am>a</abbr><expan>casti<ex>e</ex>lla</expan></choice> <am>⁊</am><ex>e</ex> p<am>ⁱ</am><ex>ri</ex>so muchas uillas.</head>
 <note place="margin-left" resp="1">cxliij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .x. an<am>̄</am><ex>n</ex>os del Regnado   
@@ -30437,7 +30490,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>tada. <am>⁊</am><ex>e</ex> lleuaro<am>̄</am><ex>n</ex> los moros los the
 <lb break="no"/>soros della. </ab><ab n="700"><am>⁊</am><ex>e</ex> el q<am>̄</am><ex>ue</ex>b<am>ª</am><ex>ra</ex>nto q<am>̄</am><ex>ue</ex> fuera en
 <lb/><choice><abbr>tp<am>̄</am>o</abbr><expan>t<ex>ien</ex>po</expan></choice> del Rey R<am>º.</am><ex>odrigo</ex> Recudio otra uez 
-<lb/>en tiempo deste alma<am>̄</am><ex>n</ex>çor. </ab></div><div n="765" prev_="771"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
+<lb/>en tiempo deste alma<am>̄</am><ex>n</ex>çor. </ab></div><div n="765" prev="771"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
 <lb/>de com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor corrio taerra de <choice><abbr><am>xⁱ</am><lb break="no"/>anos</abbr><expan><ex>cristi</ex><lb break="no"/>anos</expan></choice> fasta sant yago <am>⁊</am><ex>e</ex> lleuo en
 <lb break="no"/>de la<hi rend= "sup">s</hi> conpannas.</head>
 <note place="margin-right" resp="1">cxliiij</note>
@@ -30490,7 +30543,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb break="no"/>guna cosa q<am>̄</am><ex>ue</ex>de contar sea q<am>̄</am><ex>ue</ex> ala es
 <lb break="no"/>toria <am>ꝑ</am><ex>per</ex>tenesca ca so todas estas
 <lb/>cosas q<am>̄</am><ex>ue</ex> auemos dichas pasaro<am>̄</am><ex>n</ex>⸫</ab></div>
-<lb/><div n="766" prev_="772"><head rend="h1" n="Rubric">Capitulo xj. De com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor 
+<lb/><div n="766" prev="772"><head rend="h1" n="Rubric">Capitulo xj. De com<am>̄</am><ex>m</ex>o alma<am>̄</am><ex>n</ex>çor 
 <lb/>fue ue<am>̄</am><ex>n</ex>çido <am>⁊</am><ex>e</ex> dela su muerte⸫</head>
 <note place="margin-right" resp="1">cxiv</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xiiij. an<am>̄</am><ex>n</ex>os del Regna
@@ -30600,7 +30653,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>muerto fi<am>̄</am><ex>n</ex>co ensu lugar su fijo ab
 <lb break="no"/>delmelic q<am>̄</am><ex>ue</ex> era llamado por non
 <lb break="no"/>bre almodafar <am>⁊</am><ex>e</ex> mantouo el Reg
-<lb break="no"/>no .vj. an<am>̄</am><ex>n</ex>os <am>⁊</am><ex>e</ex> ix. meses⸫ </ab></div><div n="767" prev_="773"><head rend="h1" n="Rubric">Ca
+<lb break="no"/>no .vj. an<am>̄</am><ex>n</ex>os <am>⁊</am><ex>e</ex> ix. meses⸫ </ab></div><div n="767" prev="773"><head rend="h1" n="Rubric">Ca
 <lb break="no"/>pitulo .xij. De com<am>̄</am><ex>m</ex>o uino abdel
 <lb break="no"/>melic correr la <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> delos <choice><abbr><am>xⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice>
 <lb/><am>⁊</am><ex>e</ex> fue ue<am>̄</am><ex>n</ex>çido <am>⁊</am><ex>e</ex> dela fambre q<am>̄</am><ex>ue</ex> uino   
@@ -30672,7 +30725,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>estoria <am>ꝑ</am><ex>per</ex>tenesca </ab><ab n="2000">si no<am>̄</am><ex>n</ex> tanto q<am>̄</am><ex>ue</ex> non 
 <lb/>podien au<am>̉</am><ex>er</ex> agua por la pestilençia 
 <lb/>desta seq<am>̄</am><ex>ue</ex>dat q<am>̄</am><ex>ue</ex> agora deximos.</ab></div>
-<lb/><div n="768" prev_="774"><head rend="h1" n="Rubric">Capitulo xiijº. de com<am>̄</am><ex>m</ex>o dios dio
+<lb/><div n="768" prev="774"><head rend="h1" n="Rubric">Capitulo xiijº. de com<am>̄</am><ex>m</ex>o dios dio
 <lb/>el agua enla <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> <am>⁊</am><ex>e</ex> dela muerte
 <lb/>del Rey don uermudo.</head>
 <note place="margin-right" resp="1">cxlvij</note>
@@ -30750,7 +30803,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>ensu lugar .i<am>º</am><ex>ohan</ex>. el xjº. </ab><ab n="2200"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .xxxix
 <lb/><choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>. </ab><ab n="2300"><space quantity="1" unit="chars"/>Esse an<am>̄</am><ex>n</ex>o otrossi murio el 
 <lb/>em<am>ꝑ</am><ex>per</ex>ador oto el .ijº. </ab><ab n="2400"><am>⁊</am><ex>e</ex> Regno enpos el su   
-<lb/>fijo oto el iijº.</ab><ab n="2500">xxx an<am>̄</am><ex>n</ex>os. </ab></div><div n="769" prev_="776"><head rend="h1" n="Rubric">El Regnado 
+<lb/>fijo oto el iijº.</ab><ab n="2500">xxx an<am>̄</am><ex>n</ex>os. </ab></div><div n="769" prev="776"><head rend="h1" n="Rubric">El Regnado 
 <lb/>del vº rey don a<am>º</am><ex>lfonso</ex>. que regno .xxij. des
 <lb break="no"/>pues del Rey don pelayo se comiença.
 <lb/>Capitulo p<am>ⁱ</am><ex>ri</ex>mero de com<am>̄</am><ex>m</ex>o fue casado
@@ -30808,7 +30861,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 
 <cb n="a"/>
 
-<div n="770" prev_="777">
+<div n="770" prev="777">
 
 <lb/><head rend="h1" n="Rubric">Capitulo ijº. de com<am>̄</am><ex>m</ex>o Mahomadal
 <lb break="no"/>mahadi p<am>ⁱ</am><ex>ri</ex>so aysem rey de cordou<hi rend= "sup">a</hi>.</head>
@@ -30832,7 +30885,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/><space quantity="1" unit="chars"/>Et assi com<am>̄</am><ex>m</ex>o deximos ya. acal 
 <lb/>mataro<am>̄</am><ex>n</ex> los s<am>ꝯ</am><ex>us</ex> uassallos mesmos</ab>
 <lb/><ab n="900"><am>⁊</am><ex>e</ex> esse an<am>̄</am><ex>n</ex>o cu<am>̄</am><ex>n</ex>plio ysem .xxx.iij. an<am>̄</am><ex>n</ex>os 
-<lb/>de su Regnado⸫ </ab></div><div n="771" prev_="778"><head rend="h1" n="Rubric">Capitulo iijº de co
+<lb/>de su Regnado⸫ </ab></div><div n="771" prev="778"><head rend="h1" n="Rubric">Capitulo iijº de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>o Mahomad almahadi dio su <am>ħ</am><ex>her</ex>
 <lb break="no"/>mana por mug<am>̉</am><ex>er</ex> a abdalla rey de tole 
 <lb break="no"/>do. <note type="ed" resp="RPG">Esta secuencia fue añadida en el margen izquierdo</note> </head>
@@ -30867,7 +30920,7 @@ desp <am>⁊</am><ex>e</ex> proue<am>̄</am><ex>n</ex>çi
 <lb/>q<am>̄</am><ex>ue</ex> era u<am>̉</am><ex>er</ex>dat lo q<am>̄</am><ex>ue</ex>les dizie </ab><ab n="900"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> en
 <lb/>ello engan<am>̄</am><ex>n</ex>ados. </ab><ab n="1000"><space quantity="1" unit="chars"/><space quantity="1" unit="chars"/>Mas agora dexa
 <lb break="no"/>mos aqui de fablar desto <am>⁊</am><ex>e</ex> diremos 
-<lb/>del Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>. </ab></div><div n="772" prev_="779"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vº. de com<am>̄</am><ex>m</ex>o Ma
+<lb/>del Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>. </ab></div><div n="772" prev="779"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vº. de com<am>̄</am><ex>m</ex>o Ma
 <lb break="no"/>homad almahadi mato todos los
 <lb/>que se alcaran⸫ </head>
 <note place="margin-right" resp="1">clj</note>
@@ -30924,7 +30977,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>g<am>ª</am><ex>ra</ex>nt tiempo en abito de monja.</ab>
 <lb/><ab n="1800">¶ Mas agora dexamos aqui 
 <lb/>de fablar desto <am>⁊</am><ex>e</ex> diremos delos 
-<lb/>moros. </ab></div><div n="773" prev_="780"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o maho
+<lb/>moros. </ab></div><div n="773" prev="780"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .vº. de com<am>̄</am><ex>m</ex>o maho
 <lb break="no"/>mad almahadi mato todos los q<am>̄</am><ex>ue</ex>
 <lb/>se alçara<am>̄</am><ex>n</ex> <note type="ed" resp="RPG">Esta secuencia fue añadida en el margen izquierdo</note></head>
 <note place="margin-left" resp="1">clij</note>
@@ -30990,7 +31043,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><ab n="1300">¶ Mas agora dexamos aq<am>ⁱ</am><ex>ui</ex> de fabl
 <lb break="no"/>ar desto <am>⁊</am><ex>e</ex> diremos del conde g<am>ª</am><ex>arçi</ex> <choice><abbr>frr<am>̄</am>s</abbr><expan>f<ex>e</ex>rr<ex>ande</ex>s</expan></choice> 
 <lb/><am>⁊</am><ex>e</ex> de su fijo el conde don Sancho.</ab></div>
-<lb/><div n="774" prev_="781"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vjº. de com<am>̄</am><ex>m</ex>o murio el co<am>̄</am><ex>n</ex>
+<lb/><div n="774" prev="781"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o vjº. de com<am>̄</am><ex>m</ex>o murio el co<am>̄</am><ex>n</ex>
 <lb break="no"/>de garçi <choice><abbr>frr<am>̄</am>s</abbr><expan>f<ex>e</ex>rr<ex>ande</ex>s</expan></choice> <am>⁊</am><ex>e</ex> delos lugares q<am>̄</am><ex>ue</ex> ga
 <lb break="no"/>no despues su fijo el <am>ꝯ</am><ex>con</ex>de don S<am>.</am><ex>ancho</ex>.</head>
 <note place="margin-left" resp="1">cliij</note>
@@ -31027,7 +31080,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>grant au<am>̉</am><ex>er</ex> alos moros por el cuerpo 
 <lb/>del </ab><ab n="1400"><am>⁊</am><ex>e</ex> lleuaro<am>̄</am><ex>n</ex> le aent<am>̉</am><ex>er</ex>rar al mones
 <lb break="no"/>t<am>̉</am><ex>er</ex>io de sa<am>̄</am><ex>n</ex>t p<am>º</am><ex>edro</ex> de carden<am>̄</am><ex>n</ex>a. </ab></div>
-<lb/><div n="775" prev_="782"><ab n="100">¶ Et pues 
+<lb/><div n="775" prev="782"><ab n="100">¶ Et pues 
 <lb/>q<am>̄</am><ex>ue</ex> el fue finado fi<am>̄</am><ex>n</ex>co su fijo el conde
 <lb/>don S<am>º</am><ex>ancho</ex> ensu lugar <am>⁊</am><ex>e</ex> fue sen<am>̄</am><ex>n</ex>or de cas
 <lb break="no"/>tiella bie<am>̄</am><ex>n</ex> assi com<am>̄</am><ex>m</ex>o lo fuera el pad<am>ᵉ</am><ex>re</ex>.</ab>
@@ -31087,7 +31140,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>auie no<am>̄</am><ex>n</ex>bre Mion<am>̄</am><ex>n</ex>a. </ab><ab n="3300">¶ Mas ago
 <lb break="no"/>ra dexamos aqui de fablar desto
 <lb/><am>⁊</am><ex>e</ex> tornaremos aco<am>̄</am><ex>n</ex>tar de com<am>̄</am><ex>m</ex>o fue 
-<lb/>alidiar el conde do<am>̄</am><ex>n</ex> Sancho⸫ </ab></div><div n="776" prev_="783"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb/>alidiar el conde do<am>̄</am><ex>n</ex> Sancho⸫ </ab></div><div n="776" prev="783"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>vijº. de com<am>̄</am><ex>m</ex>o el conde don sanc<am>ħ</am><ex>ho</ex> corrio 
 <lb/>el regno de toledo <am>⁊</am><ex>e</ex> de cordoua⸫</head>
 <note place="margin-left" resp="1">cliiij</note>
@@ -31127,7 +31180,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>çia <am>⁊</am><ex>e</ex> Regno enpos el su fijo Ru<am>ƀ</am><ex>ber</ex>t
 <lb/>xxxiiijº an<am>̄</am><ex>n</ex>os. </ab><ab n="600"><space quantity="1" unit="lines"/>Mas agora dexa
 <lb break="no"/>mos aqui de fablar desto <am>⁊</am><ex>e</ex> tornare
-<lb break="no"/>mos acontar delos moros. </ab></div><div n="777" prev_="784"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
+<lb break="no"/>mos acontar delos moros. </ab></div><div n="777" prev="784"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o
 <lb/>viijº de com<am>̄</am><ex>m</ex>o çulema<am>̄</am><ex>n</ex> mato todos los
 <lb/>q<am>̄</am><ex>ue</ex> sele q<am>̄</am><ex>ue</ex>rien alçar <am>⁊</am><ex>e</ex> com<am>̄</am><ex>m</ex>o lidiaro<am>̄</am><ex>n</ex> el co<am>̄</am><ex>n</ex>
 <lb break="no"/>de don sanc<am>ħ</am><ex>ho</ex> <am>⁊</am><ex>e</ex > el. co<am>̄</am><ex>n</ex> mahomad yl ue<am>̄</am><ex>n</ex>çiero<am>̄</am><ex>n</ex></head>
@@ -31305,7 +31358,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>pusieron ensu lugar asilu<am>̄</am><ex>est</ex>re 
 <lb/>el t<am>̉</am><ex>er</ex>cero </ab><ab n="5100"><am>⁊</am><ex>e</ex> fueron con el. çiento
 <lb/><am>⁊</am><ex>e</ex> quarenta <am>⁊</am><ex>e</ex> quatro <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>⸫</ab></div>
-<lb/><div n="778" prev_="785"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o la batalla q<am>̄</am><ex>ue</ex> 
+<lb/><div n="778" prev="785"><head rend="h1" n="Rubric">Capitulo ixº. de com<am>̄</am><ex>m</ex>o la batalla q<am>̄</am><ex>ue</ex> 
 <lb/>ouiero<am>̄</am><ex>n</ex> entre Mahomad almahadi
 <lb/><am>⁊</am><ex>e</ex> çulema<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> fue çulema<am>̄</am><ex>n</ex> uençido</head>
 <note place="margin-right" resp="1">clvj</note>
@@ -31412,7 +31465,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>del mu<am>̄</am><ex>n</ex>do <am>ꝑ</am><ex>por</ex>a su Regno </ab><ab n="3100">de g<am>ⁱ</am><ex>ui</ex>sa q<am>̄</am><ex>ue</ex> ma
 <lb break="no"/>homad non auie al deuer si no<am>̄</am><ex>n</ex> el
 <lb/>no<am>̄</am><ex>n</ex>bre ta<am>̄</am><ex>n</ex> solamie<am>̄</am><ex>n</ex>t q<am>̄</am><ex>ue</ex> auie de Rey⸫</ab></div>
-<lb/><div n="779" prev_="786"><head rend="h1" n="Rubric">Capitulo xº. de com<am>̄</am><ex>m</ex>o los de cordoua 
+<lb/><div n="779" prev="786"><head rend="h1" n="Rubric">Capitulo xº. de com<am>̄</am><ex>m</ex>o los de cordoua 
 <lb/>fizieron p<am>̉</am><ex>re</ex>nder a Mahomad almadi
 <lb/><am>⁊</am><ex>e</ex> fizieron aysem la segu<am>̄</am><ex>n</ex>da uez⸫</head>
 <note place="margin-left" resp="1">clvij</note>
@@ -31548,7 +31601,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>la aq<am>̄</am><ex>ue</ex>l obeydalla enbuelta co<am>̄</am><ex>n</ex> mill
 <lb/><choice><abbr>m<am>̄</am>r</abbr><expan>m<ex>o</ex>r<ex>auedis</ex></expan></choice>. </ab><ab n="3700"> <am>⁊</am><ex>e</ex> el co<am>̄</am><ex>n</ex> los de toledo tomola <am>⁊</am><ex>e</ex> so
 <lb break="no"/>t<am>̉</am><ex>er</ex>raro<am>̄</am><ex>n</ex> la luego de<am>̄</am><ex>n</ex>tro ensu mesq<am>ⁱ</am><ex>ui</ex>ta.</ab></div>
-<lb/><div n="780" prev_="787"><head rend="h1" n="Rubric">Capitulo xj. De com<am>̄</am><ex>m</ex>o los berbe
+<lb/><div n="780" prev="787"><head rend="h1" n="Rubric">Capitulo xj. De com<am>̄</am><ex>m</ex>o los berbe
 <lb break="no"/>ris corrien <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> de cordoua <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o</head>
 <note place="margin-right" resp="1">clviij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .xvj. an<am>̄</am><ex>n</ex>os del Regna
@@ -31672,7 +31725,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>diero<am>̄</am><ex>n</ex> por la <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> q<am>̄</am><ex>ue</ex>mando <am>⁊</am><ex>e</ex> astraga<am>̄</am><ex>n</ex>
 <lb break="no"/>do q<am>ª</am><ex>ua</ex>nto fallaua<am>̄</am><ex>n</ex>. </ab><ab n="3300">¶ El Rey puso es
 <lb break="no"/>tonçes por todos los cabos del Reg
-<lb break="no"/>no atalayas <am>⁊</am><ex>e</ex> ascuchas⸫ </ab></div><div n="781" prev_="788"><head rend="h1" n="Rubric">cap<am>ł</am><ex>itul</ex>o xviij 
+<lb break="no"/>no atalayas <am>⁊</am><ex>e</ex> ascuchas⸫ </ab></div><div n="781" prev="788"><head rend="h1" n="Rubric">cap<am>ł</am><ex>itul</ex>o xviij 
 <lb/>dela postura q<am>̄</am><ex>ue</ex> fizo el conde don.
 <lb/>Sancho con ysem rey de cordoua por 
 <lb/>los castillos quel dio <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o
@@ -31814,7 +31867,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 
 <lb/>p<am>ⁱ</am><ex>ri</ex>ssiero<am>̄</am><ex>n</ex> la luego <am>⁊</am><ex>e</ex> fallaro<am>̄</am><ex>n</ex> y uianda 
 <lb/>q<am>ª</am><ex>ua</ex>nta q<am>ⁱ</am><ex>ui</ex>sieron </ab><ab n="4600"><am>⁊</am><ex>e</ex> dalli corrie<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> astra
-<lb break="no"/>gauan toda la tierra⸫ </ab></div><div n="782" prev_="789"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº.
+<lb break="no"/>gauan toda la tierra⸫ </ab></div><div n="782" prev="789"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº.
 <lb/>de com<am>̄</am><ex>m</ex>o çulema<am>̄</am><ex>n</ex> p<am>ⁱ</am><ex>ri</ex>so cordoua <am>⁊</am><ex>e</ex> fuxo yse<am>ꝫ</am><ex>m</ex>.</head>
 <note place="margin-right" resp="1">clx</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados .xviijº. an<am>̄</am><ex>n</ex>os del Regnado 
@@ -31901,7 +31954,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>ijº. xx.ij. an<am>̄</am><ex>n</ex>os. </ab><ab n="3800">¶ Esse an<am>̄</am><ex>n</ex>o otrossi mu
 <lb break="no"/>rio el <am>ppª</am><ex>papa</ex> siluestre. </ab><ab n="3900"><am>⁊</am><ex>e</ex> fue puesto ensu 
 <lb/>lugar .io<am>ħ</am><ex>ha</ex>n el xvº. </ab><ab n="4000"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .çien
-<lb break="no"/>to <am>⁊</am><ex>e</ex> quarenta <am>⁊</am><ex>e</ex> çinco <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>. </ab></div><div n="783" prev_="790"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
+<lb break="no"/>to <am>⁊</am><ex>e</ex> quarenta <am>⁊</am><ex>e</ex> çinco <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>. </ab></div><div n="783" prev="790"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. 
 <lb/>xiiijº. Decom<am>̄</am><ex>m</ex>o hayra<am>̄</am><ex>n</ex> alhemeri guer
 <lb break="no"/>reaua açulema.</head> 
 <note place="margin-left" resp="1">clxj</note>
@@ -31953,7 +32006,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>ca. </ab><ab n="1600">si no<am>̄</am><ex>n</ex> tanto q<am>̄</am><ex>ue</ex> murio el <am>ppª</am><ex>papa</ex> io<am>ħ</am><ex>ha</ex>n</ab>
 <lb/><ab n="1700"><am>⁊</am><ex>e</ex> fue puesto en su lugar io<am>ħ</am><ex>ha</ex>n el 
 <lb/>xvij. </ab><ab n="1800"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c.xLª.vj. <choice><abbr>ap<am>ł</am>igos</abbr><expan>ap<ex>osto</ex>ligos</expan></choice>.</ab></div>
-<lb/><div n="784" prev_="791"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xvº. De com<am>̄</am><ex>m</ex>o hayra<am>̄</am><ex>n</ex> priso alma
+<lb/><div n="784" prev="791"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xvº. De com<am>̄</am><ex>m</ex>o hayra<am>̄</am><ex>n</ex> priso alma
 <lb break="no"/>ria. Jahen baeça <am>⁊</am><ex>e</ex> Ariona.</head>
 <note place="margin-right" resp="1">clxij</note>
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xx an<am>̄</am><ex>n</ex>os del Regnado 
@@ -31992,7 +32045,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><am>⁊</am><ex>e</ex> los castillos de mano de ysem
 <lb/>ayudaua<am>̄</am><ex>n</ex>. <am>⁊</am><ex>e</ex> ayran q<am>ª</am><ex>ua</ex>nto mas po
 <lb break="no"/>dien co<am>̄</am><ex>n</ex> los aueres <am>⁊</am><ex>e</ex> con los cu
-<lb break="no"/>erpos. </ab></div><div n="785" prev_="792"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xviº. De com<am>̄</am><ex>m</ex>o ali fu
+<lb break="no"/>erpos. </ab></div><div n="785" prev="792"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xviº. De com<am>̄</am><ex>m</ex>o ali fu
 <lb break="no"/>e alçado por Rey <am>⁊</am><ex>e</ex> mato Açulema<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> de co
 <lb break="no"/>m<am>̄</am><ex>m</ex>o hayra<am>̄</am><ex>m</ex> fue vencido <am>⁊</am><ex>e</ex> d<am>ł</am><ex>el</ex>a muerte de ali</head>
 <note place="margin-left" resp="1">clxiij</note>
@@ -32168,7 +32221,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>ron estonçes muy bie<am>̄</am><ex>n</ex> el alcaçar fastaq<am>̄</am><ex>ue</ex> 
 <lb/>ouiero<am>̄</am><ex>n</ex> su acuerdo de enbiar por su her
 <lb break="no"/>mano caçi<am>̄</am><ex>m</ex> q<am>̄</am><ex>ue</ex> moraua en seuilla </ab><ab n="6100"><am>⁊</am><ex>e</ex> fa
-<lb break="no"/>zer le su Rey⸫ </ab></div><div n="786" prev_="793"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xvijº. De com<am>̄</am><ex>m</ex>o 
+<lb break="no"/>zer le su Rey⸫ </ab></div><div n="786" prev="793"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xvijº. De com<am>̄</am><ex>m</ex>o 
 <lb/>los berberiz alçaron por Rey acaçi<am>̄</am><ex>m</ex> <am>⁊</am><ex>e</ex> d<am>ł</am><ex>el</ex>a 
 <lb/>muerte de abdorramen.</head>
 <note place="margin-right" resp="1">clxiiij</note>
@@ -32247,7 +32300,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>uchas delas uillas q<am>̄</am><ex>ue</ex> auie<am>̄</am><ex>n</ex> <am>ꝑ</am><ex>per</ex>duda<hi rend= "sup">s</hi></ab>
 <lb/><ab n="3000">¶ Mas agora dexamos aqui de fa
 <lb break="no"/>blar delos moros <am>⁊</am><ex>e</ex> diremos del Rey 
-<lb/>don alfonso⸫ </ab></div><div n="787" prev_="794"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xviijº. De com<am>̄</am><ex>m</ex>o 
+<lb/>don alfonso⸫ </ab></div><div n="787" prev="794"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xviijº. De com<am>̄</am><ex>m</ex>o 
 <lb/>el Rey don Alfon<am>̄</am><ex>so</ex> Refizo la çibdat de 
 <lb/>leon <am>⁊</am><ex>e</ex> enterraro<am>̄</am><ex>n</ex> los huessos d<am>ł</am><ex>el</ex>os Reyes.</head>   <note place="margin-left" resp="1">clxv</note> 
 <lb/><ab n="100"><hi rend="init2">A</hi>Ndados xxiij. an<am>̄</am><ex>n</ex>os del Regna
@@ -32311,7 +32364,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><am>⁊</am><ex>e</ex> assessegada mie<am>̄</am><ex>n</ex>t. </ab><ab n="2000">¶ Mas agora 
 <lb/>dexamos aq<am>ⁱ</am><ex>ui</ex> de fablar del Rey 
 <lb/>don alfonso <am>⁊</am><ex>e</ex> diremos delos m
-<lb break="no"/>oros⸫ </ab></div><div n="788" prev_="795"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xixº. De com<am>̄</am><ex>m</ex>o caçi<am>̄</am><ex>m</ex> fue
+<lb break="no"/>oros⸫ </ab></div><div n="788" prev="795"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xixº. De com<am>̄</am><ex>m</ex>o caçi<am>̄</am><ex>m</ex> fue
 <lb/>la segunda uez Rey de cordoua <am>⁊</am><ex>e</ex> de 
 <lb/>com<am>̄</am><ex>m</ex>o fuxo aseuilla yl priso despues 
 <lb/>yhaya <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o mataro<am>̄</am><ex>n</ex> los de cor
@@ -32420,7 +32473,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><am>ppª</am><ex>papa</ex> io<am>ħ</am><ex>ha</ex>n </ab><ab n="3500"><am>⁊</am><ex>e</ex> fue puesto ensu lugar <am>ſ̷</am><ex>ser</ex>gio 
 <lb/>el q<am>ª</am><ex>ua</ex>rto. </ab><ab n="3600"><am>⁊</am><ex>e</ex> fuero<am>̄</am><ex>n</ex> co<am>̄</am><ex>n</ex> el .c. <am>⁊</am><ex>e</ex> xLvij. <choice><abbr>ap<am>ł</am>i<lb break="no"/>gos</abbr><expan>ap<ex>osto</ex>li<lb break="no"/>gos</expan></choice>. </ab><ab n="3700">¶ Mas agora dexamos aqui de 
 <lb/>fablar desto. <am>⁊</am><ex>e</ex> diremos del Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>.</ab></div>
-<lb/><div n="789" prev_="796"><head rend="h1" n="Rubric">Capitulo .xxº. De com<am>̄</am><ex>m</ex>o el Rey don
+<lb/><div n="789" prev="796"><head rend="h1" n="Rubric">Capitulo .xxº. De com<am>̄</am><ex>m</ex>o el Rey don
 <lb/>Alfon<am>̄</am><ex>so</ex> Reçibio alos fijos del conde do<am>̄</am><ex>n</ex> 
 <lb/>vela por sus vasallos</head>
 <note place="margin-left" resp="1">clxvij</note>
@@ -32446,7 +32499,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>Reçibiolos muy bie<am>̄</am><ex>n</ex> </ab><ab n="800"><am>⁊</am><ex>e</ex> dioles <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice> enla<hi rend= "sup">s</hi>
 <lb/>somoças enq<am>̄</am><ex>ue</ex> morassen. </ab><ab n="900">¶ Mas agora 
 <lb/>dexamos aq<am>ⁱ</am><ex>ui</ex> de fablar del Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex> <am>⁊</am><ex>e</ex> di
-<lb break="no"/>remos delos moros⸫ </ab></div><div n="790" prev_="797"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xxiº. De 
+<lb break="no"/>remos delos moros⸫ </ab></div><div n="790" prev="797"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xxiº. De 
 
 <cb n="b"/>
 
@@ -32517,7 +32570,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>ma man<am>̉</am><ex>er</ex>a obediçio otrossi carmo<am>̄</am><ex>n</ex>a 
 <lb/><am>⁊</am><ex>e</ex> al m<am>ª</am><ex>aria</ex>. </ab><ab n="2100">¶ Mas agora dexamos aq<am>ⁱ</am><ex>ui</ex> esta 
 <lb/>Razo<am>̄</am><ex>n</ex> <am>⁊</am><ex>e</ex> tornaremos ala estoria de cor
-<lb break="no"/>doua al logar olo dexamos⸫ </ab></div><div n="791" prev_="798"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>.   
+<lb break="no"/>doua al logar olo dexamos⸫ </ab></div><div n="791" prev="798"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>.   
 <note place="margin-right" resp="1">clxix</note>
 <lb/>xxijº. De com<am>̄</am><ex>m</ex>o los de cordoua tolli
 <lb break="no"/>ero<am>̄</am><ex>n</ex> el Regno ayse<am>ꝫ</am><ex>m</ex> yl echaro<am>̄</am><ex>n</ex> d<am>ł</am><ex>el</ex>a <choice><abbr>tr<am>̉</am>a</abbr><expan>t<ex>ier</ex>ra</expan></choice>.</head>
@@ -32612,7 +32665,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>to do el Regno. </ab><ab n="4000">¶ Mas agora dexa
 <lb break="no"/>mos aqui de fablar delos mo
 <lb break="no"/>ros <am>⁊</am><ex>e</ex> diremos del Rey don alfo<am>̄</am><ex>n</ex>so⸫</ab></div>
-<lb/><div n="792" prev_="799"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>. xxiijº. de com<am>̄</am><ex>m</ex>o murio el Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>.</head>
+<lb/><div n="792" prev="799"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice>. xxiijº. de com<am>̄</am><ex>m</ex>o murio el Rey do<am>̄</am><ex>n</ex> a<am>º</am><ex>lfonso</ex>.</head>
 <lb/><ab n="100"><hi rend="init2unex">A</hi>Ndados .xxvij. an<am>̄</am><ex>n</ex>os del Reg
 <lb break="no"/>nado del Rey don a<am>º</am><ex>lfonso</ex>. q<am>̄</am><ex>ue</ex> fue 
 <lb/>enla era de .M. <am>⁊</am><ex>e</ex> xL <am>⁊</am><ex>e</ex> iij. </ab><ab n="200">¶ El Rey 
@@ -32640,7 +32693,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>uado aleon <am>⁊</am><ex>e</ex> ent<am>̉</am><ex>er</ex>raron le çerca 
 <lb/>su padre <am>⁊</am><ex>e</ex> su madre⸫</ab></div>
 <note place="margin-right" resp="1">clxx</note>
-<lb/><div n="793" prev_="801"><head rend="h1" n="Rubric"><hi rend="init2">E</hi> el Regnado del .iijº. Rey don 
+<lb/><div n="793" prev="801"><head rend="h1" n="Rubric"><hi rend="init2">E</hi> el Regnado del .iijº. Rey don 
 <lb/>vermudo .el q<am>̄</am><ex>ue</ex> Regno .xxiij. 
 <lb/>despues del Rey don pelayo se 
 <lb/>comie<am>̄</am><ex>n</ex>ça. <choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> primero.
@@ -32712,7 +32765,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>Et diremos delos Reyes deNauarra</ab>
 <lb/><ab n="2600">ca por este lugar uernemos acon
 <lb break="no"/>tar de com<am>̄</am><ex>m</ex>o ouo rey en <choice><abbr>casti<am>łł</am>a</abbr><expan>casti<ex>e</ex>lla</expan></choice>.</ab></div>
-<lb/><div n="794" prev_="802"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .ijº. del linage delos Reyes
+<lb/><div n="794" prev="802"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .ijº. del linage delos Reyes
 <lb/>de Nauarra</head>
 <note place="margin-right" resp="1">clxxj</note>
 <lb/><ab n="300"><hi rend="init2">Q</hi>ue<am>̄</am><ex>n</ex>ta la estoria q<am>̄</am><ex>ue</ex> despues dela 
@@ -32740,7 +32793,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>Este yen<am>̄</am><ex>n</ex>ego ariesta ouo un fijo 
 <lb/>q<am>̄</am><ex>ue</ex>l dixero<am>̄</am><ex>n</ex> g<am>ª</am><ex>arçia</ex> </ab><ab n="1600"><am>⁊</am><ex>e</ex> casol co<am>̄</am><ex>n</ex> una duen<am>̄</am><ex>n</ex>a 
 <lb/>de linage de Reyes </ab><ab n="1700">q<am>̄</am><ex>ue</ex> auie non<am>ƀ</am><ex>bre</ex> 
-<lb/>donna urraca⸫ </ab></div><div n="795" prev_="803"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. iijº. Del   
+<lb/>donna urraca⸫ </ab></div><div n="795" prev="803"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o. iijº. Del   
 <lb/>Rey garçi yn<am>̄</am><ex>n</ex>egez <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o nasçio 
 <lb/>su fijo do<am>̄</am><ex>n</ex> S<am>º</am><ex>ancho</ex> <am>⁊</am><ex>e</ex> ue<am>̄</am><ex>n</ex>cio alos moros en pa<am>̄</am><ex>n</ex>plona.</head>
 <note place="margin-right" resp="1">clxxij</note>
@@ -32853,7 +32906,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>Refrenar <am>⁊</am><ex>e</ex> alongar los moros de
 <lb/>su rregno. por q<am>̄</am><ex>ue</ex> entodos sus dias 
 <lb/>sienpre estido segura la t<am>̄</am><ex>ie</ex>rra</ab></div>
-<lb/><div n="796" prev_="805"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .q<am>ª</am><ex>ua</ex>rto. Del Rey don g<am>ª</am><ex>arçia</ex> q<am>̄</am><ex>ue</ex> dixiero<am>̄</am><ex>n</ex> 
+<lb/><div n="796" prev="805"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .q<am>ª</am><ex>ua</ex>rto. Del Rey don g<am>ª</am><ex>arçia</ex> q<am>̄</am><ex>ue</ex> dixiero<am>̄</am><ex>n</ex> 
 <lb/>el trembloso <am>⁊</am><ex>e</ex> los fechos q<am>̄</am><ex>ue</ex> fizo</head>
 <note place="margin-right" resp="1">clxxiij</note>
 <lb/><ab n="100"><hi rend="init3">D</hi>espues dela muerte del Rey 
@@ -32874,7 +32927,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>cas calçadas lidiando <am>⁊</am><ex>e</ex> guerrea<am>̄</am><ex>n</ex>do
 <lb/>assy com<am>̄</am><ex>m</ex>o supadre fiziera </ab><ab n="800">alas ue
 <lb break="no"/>zes de cauallo </ab><ab n="900"><am>⁊</am><ex>e</ex> dixiero<am>̄</am><ex>n</ex> le por en
-<lb break="no"/>de .g<am>ª</am><ex>arçi</ex> auarca. </ab></div><div n="797" prev_="806"><ab n="100"><am>⁊</am><ex>e</ex> despues de sumu
+<lb break="no"/>de .g<am>ª</am><ex>arçi</ex> auarca. </ab></div><div n="797" prev="806"><ab n="100"><am>⁊</am><ex>e</ex> despues de sumu
 <lb break="no"/>erte Regno su fijo alq<am>̄</am><ex>ue</ex> dixiero<am>̄</am><ex>n</ex> don
 
 <cb n="b"/>
@@ -32893,7 +32946,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>cho auarca. </ab><ab n="900">¶ Mas agora dexa
 <lb break="no"/>mos aqui de fablar del Rey don 
 <lb/>Sancho. <am>⁊</am><ex>e</ex> diremos del Jnfante g<am>ª</am><ex>arçia</ex>.</ab></div>
-<lb/><div n="798" prev_="807"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .vº. De com<am>̄</am><ex>m</ex>o fue desposado el
+<lb/><div n="798" prev="807"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .vº. De com<am>̄</am><ex>m</ex>o fue desposado el
 <lb/>el Jnfante g<am>ª</am><ex>arçia</ex> yl diero<am>̄</am><ex>n</ex> el castiello de 
 <lb/>monçon.</head>
 <note place="margin-right" resp="1">clxxiiij</note>
@@ -32947,7 +33000,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><am>⁊</am><ex>e</ex> entregol del castiello de mo<am>̄</am><ex>n</ex>çon.</ab>
 <lb/><ab n="2600"><am>⁊</am><ex>e</ex> aguilar <am>⁊</am><ex>e</ex> Çea. <am>⁊</am><ex>e</ex> graial. Cande 
 <lb/>toro. Et a sant <choice><abbr><am><g>rr</g></am></abbr><expan><ex>R</ex></expan></choice>oma<am>̄</am><ex>n</ex> q<am>̄</am><ex>ue</ex> tenie el.</ab></div>
-<lb/><div n="799" prev_="808"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .viº. De com<am>̄</am><ex>m</ex>o <app>
+<lb/><div n="799" prev="808"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .viº. De com<am>̄</am><ex>m</ex>o <app>
 <rdg type="lit"><seg type="er"><seg type="1">ma</seg><seg type="2"> <hi rend="stricke">ma</hi></seg></seg>mataron</rdg>
 <rdg type="orig">mamataron</rdg>
 <rdg type="mod">mataron</rdg>
@@ -33168,7 +33221,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><ab n="7500"><am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex>se q<am>ⁱ</am><ex>ui</ex>siera meter co<am>̄</am><ex>n</ex> el enla fues
 <lb break="no"/>sa aq<am>̄</am><ex>ue</ex>lla su esposa </ab><ab n="7600">ta<am>̄</am><ex>n</ex> grant era la
 <lb/>cueyta q<am>̄</am><ex>ue</ex> por el fiziera.</ab></div>
-<lb/><div n="800" prev_="809"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .vijº. De com<am>̄</am><ex>m</ex>o los fijos del
+<lb/><div n="800" prev="809"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .vijº. De com<am>̄</am><ex>m</ex>o los fijos del
 <lb/>conde don vela fuero<am>̄</am><ex>n</ex> muertos.</head>
 <note place="margin-left" resp="1">clxxvj</note>
 <space quantity="1" unit="lines"/>
@@ -33240,7 +33293,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>blar desto <am>⁊</am><ex>e</ex> tornaremos aco<am>̄</am><ex>n</ex>
 <lb break="no"/>tar del Rey don Sancho <am>⁊</am><ex>e</ex> delos
 <lb/>Reyes de Nauarra.</ab></div>
-<lb/><div n="801" prev_="810"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> viijº. del Rey don Sancho
+<lb/><div n="801" prev="810"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> viijº. del Rey don Sancho
 <lb/>el mayor <am>⁊</am><ex>e</ex> del Linage de los
 <lb/>Reyes de Nauarra.</head>
 <note place="margin-right" resp="1">clxxvij</note>
@@ -33459,7 +33512,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>cho amado. </ab><ab n="7200">¶ Mas agora dexamos
 <lb/>aq<am>ⁱ</am><ex>ui</ex> de fablar deste <am>⁊</am><ex>e</ex> tornamos a 
 <lb/>contar del Rey don sancho⸫</ab></div>
-<lb/><div n="802" prev_="811"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .ixº. De com<am>̄</am><ex>m</ex>o los fijos del
+<lb/><div n="802" prev="811"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .ixº. De com<am>̄</am><ex>m</ex>o los fijos del
 <lb/>Rey don sancho mezclaron ala Rey
 <lb break="no"/>na don<am>̄</am><ex>n</ex>a eluira su madre⸫</head>
 <note place="margin-left" resp="1">clxxvijº</note>
@@ -33605,7 +33658,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>delos otros Reyes de aragon q<am>̄</am><ex>ue</ex> fizi
 <lb rend="hyphen" break="no"/>eron muchas nobles batallas fas
 <lb break="no"/>ta en <choice><abbr>nr<am>̄</am>o</abbr><expan>n<ex>uest</ex>ro</expan></choice> tiempo⸫ </ab></div>
-<div n="803" prev_="812"><head rend="h1" n="Rubric">Capitulo .xº.
+<div n="803" prev="812"><head rend="h1" n="Rubric">Capitulo .xº.
 <lb/>Del Rey don Ramiro <am>⁊</am><ex>e</ex> del linage
 <lb/>delos Reyes de aragon <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o
 <lb/>fue p<am>̉</am><ex>re</ex>sa Huesca⸫</head>
@@ -33622,7 +33675,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>faziendas con moros <am>⁊</am><ex>e</ex> siempre
 <lb/>las vençio. </ab><ab n="500"><am>⁊</am><ex>e</ex> despues mataron le
 <lb/>en grados assy como diremos ade
-<lb break="no"/>lante. </ab></div><div n="804" prev_="813"><ab n="100"><am>⁊</am><ex>e</ex> Regno en pos el su fijo do<am>̄</am><ex>n</ex>
+<lb break="no"/>lante. </ab></div><div n="804" prev="813"><ab n="100"><am>⁊</am><ex>e</ex> Regno en pos el su fijo do<am>̄</am><ex>n</ex>
 <lb/>Sancho. </ab><ab n="200">¶ Este Rey don sancho fue
 
 <pb/>
@@ -33639,7 +33692,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>ouo dicho murio. </ab><ab n="700"><am>⁊</am><ex>e</ex> los fijos nol 
 <lb/>quisieron luego soterrar. mas 
 <lb/>guardaron le en un ataud fasta 
-<lb/>que prisieron la uilla. </ab></div><div n="805" prev_="814"><ab n="100"><am>⁊</am><ex>e</ex> pues que 
+<lb/>que prisieron la uilla. </ab></div><div n="805" prev="814"><ab n="100"><am>⁊</am><ex>e</ex> pues que 
 <lb/>el Rey don sancho fue muerto. ¶
 <lb/>Regno en pos el su fijo don Ped<am>º</am><ex>ro</ex></ab>
 <lb/><ab n="200"><am>⁊</am><ex>e</ex> tenjendo el <am>⁊</am><ex>e</ex> su <am>ħ</am><ex>her</ex>mano la vil
@@ -33681,7 +33734,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/><ab n="1500"><am>⁊</am><ex>e</ex> adon Ramiro el q<am>̄</am><ex>ue</ex> fue monge 
 <lb/><am>⁊</am><ex>e</ex> c<am>ł</am><ex>ler</ex>igo de missa enel monest<am>̉</am><ex>er</ex>io 
 <lb/>de sant ponç de tamariz⸫</ab></div>
-<lb/><div n="806" prev_="815"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xiº. Del desacuerdo delos 
+<lb/><div n="806" prev="815"><head rend="h1" n="Rubric"><choice><abbr>Cp<am>ł</am>o</abbr><expan>C<ex>a</ex>p<ex>itul</ex>o</expan></choice> .xiº. Del desacuerdo delos 
 <lb/>aragoneses <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o Regno do<am>̄</am><ex>n</ex> 
 <lb/>Ramiro el monge⸫</head>
 <lb/><ab n="100"><hi rend="init3">D</hi>espues q<am>̄</am><ex>ue</ex> fueron muer
@@ -33711,7 +33764,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 
 <cb n="a"/>
 
-<lb/><div n="807" prev_="816"><ab n="1200">dela <am>ꝓ</am><ex>pro</ex>ui<am>̄</am><ex>n</ex>çia </ab><ab n="1300"><am>⁊</am><ex>e</ex> salio muc<am>ħ</am><ex>ho</ex> esfor
+<lb/><div n="807" prev="816"><ab n="1200">dela <am>ꝓ</am><ex>pro</ex>ui<am>̄</am><ex>n</ex>çia </ab><ab n="1300"><am>⁊</am><ex>e</ex> salio muc<am>ħ</am><ex>ho</ex> esfor
 <lb break="no"/>çado <am>⁊</am><ex>e</ex> sabio. </ab><ab n="1400"><am>⁊</am><ex>e</ex> co<am>̄</am><ex>n</ex>q<am>ⁱ</am><ex>ui</ex>rio <am>⁊</am><ex>e</ex> gano 
 <lb/>mu<am>̄</am><ex>n</ex>chas çibdades <am>⁊</am><ex>e</ex> castiellos 
 <lb/>q<am>̄</am><ex>ue</ex> era<am>̄</am><ex>n</ex> <am>ꝑ</am><ex>per</ex>dududos del co<am>̄</am><ex>n</ex>dado. </ab><ab n="1500">Es
@@ -33740,7 +33793,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb/>por q<am>̄</am><ex>ue</ex> el se q<am>ⁱ</am><ex>ui</ex>siera alçar co<am>̄</am><ex>n</ex>t<am>ª</am><ex>ra</ex>l padre 
 <lb/>p<am>ⁱ</am><ex>ri</ex>sol el padre. <am>⁊</am><ex>e</ex> touol p<am>̉</am><ex>re</ex>so en pu
 <lb break="no"/>lla fasta q<am>̄</am><ex>ue</ex> morio.</ab></div>
-<lb/><div n="808" prev_="817"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº. Del Rey don Pedro de
+<lb/><div n="808" prev="817"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xiijº. Del Rey don Pedro de
 <lb/>Aragon. <am>⁊</am><ex>e</ex> de su muerte</head>
 <lb/><ab n="100"><hi rend="init3">P</hi>ues q<am>̄</am><ex>ue</ex> fue muerto el Rey 
 <lb/>don alfon<am>̄</am><ex>so</ex> ¶ Reyno enpos
@@ -33832,7 +33885,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 
 <cb n="b"/>
 
-<lb/><div n="809" prev_="818"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiiij. Del Rey Don Jaymes
+<lb/><div n="809" prev="818"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o xiiij. Del Rey Don Jaymes
 <lb/><am>⁊</am><ex>e</ex> sus fijos. <am>⁊</am><ex>e</ex> de sus Ricos om<am>̄</am><ex>n</ex>es</head>
 <lb/><ab n="100"><hi rend="init3">E</hi>l Rey don p<am>º</am><ex>edro</ex> ant<am>̄</am><ex>e</ex>
 <lb/>desu muerte ouiera da
@@ -33951,7 +34004,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>mos aq<am>ⁱ</am><ex>ui</ex> de fablar desto. <am>⁊</am><ex>e</ex> q<am>̄</am><ex>ue</ex> tor
 <lb break="no"/>nemos aco<am>̄</am><ex>n</ex>tar del Rey do<am>̄</am><ex>n</ex> Sa<am>̄</am><ex>n</ex>
 <lb break="no"/>cho el mayor <am>⁊</am><ex>e</ex> de sus fijos.</ab></div>
-<lb/><div n="810" prev_="819"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xvº. Delo q<am>̄</am><ex>ue</ex> acaesçio al
+<lb/><div n="810" prev="819"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xvº. Delo q<am>̄</am><ex>ue</ex> acaesçio al
 <lb/>Rey don Sancho en palençia co<am>̄</am><ex>n</ex>
 <lb/>el puerco montes. <am>⁊</am><ex>e</ex> de com<am>̄</am><ex>m</ex>o fallo
 <lb/>la Eg<am>ł</am><ex>les</ex>ia de sa<am>̄</am><ex>n</ex>t antolin</head>
@@ -34008,7 +34061,7 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 <lb break="no"/>a cosa q<am>̄</am><ex>ue</ex> de co<am>̄</am><ex>n</ex>tar sea q<am>̄</am><ex>ue</ex> ala esto
 <lb break="no"/>ria <am>ꝑ</am><ex>per</ex>tenezca. </ab><ab n="2300">ca so todas estas
 <lb/>cosas q<am>̄</am><ex>ue</ex> auemos dichas passaro<am>̄</am><ex>n</ex>.</ab></div>
-<lb/><div n="811" prev_="820"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xij. Del Casamjento del Rey 
+<lb/><div n="811" prev="820"><head rend="h1" n="Rubric">Cap<am>ł</am><ex>itul</ex>o .xij. Del Casamjento del Rey 
 <lb/>don ferrando. Con la hermana del 
 <lb/>Rey don Vermudo</head>
 <lb/><ab n="100"><hi rend="init3">A</hi>ndados .ix. an<am>̄</am><ex>n</ex>os. del. 
@@ -34045,3 +34098,4 @@ en q<am>ⁱ</am><ex>ui</ex> yo creo. </ab><ab n="1200">¶ Et
 
 
 </div>
+</body></text></TEI>
