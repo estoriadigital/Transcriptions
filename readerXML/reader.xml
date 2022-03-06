@@ -32,7 +32,7 @@
     <p>This transcription was made by the Estoria de Espanna project.</p>
    </projectDesc>
    <editorialDecl>
-    <p>This transcription is intended to accompany the critical text and provide a regularized and punctuated version of the Estoria. If follows the same text as the primitiva (critial text) but without any variant readings and presented in such a way as to facilitate reading for a modern readership. It should be noted that because this is based on a transcription, and not an edited text with preferred readings, it contains some manuscript readings which in a fully edited text would be considered defective.</p>
+    <p>This transcription is intended to accompany the critical text and provide a regularized and punctuated version of the Estoria. It follows the same text as the primitiva (critial text) but without any variant readings and presented in such a way as to facilitate reading for a modern readership. It should be noted that because this is based on a transcription, and not an edited text with preferred readings, it contains some manuscript readings which in a fully edited text would be considered defective.</p>
    </editorialDecl>
    <variantEncoding method="parallel-segmentation" location="internal"/>
   </encodingDesc>
