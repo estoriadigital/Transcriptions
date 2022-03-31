@@ -4,11 +4,11 @@ This repository contains the XML transcriptions created for the Estoria de Espan
 
 Manuscripts
 -----
-The manuscripts directory contains the manuscript transcriptions named according to the sigla of each manuscript. The XML follows TEI guidelines but does not currently have TEI headers. This will be addressed in future revisions of the project.
+The manuscripts directory contains the manuscript transcriptions named according to the sigla of each manuscript. The XML follows TEI guidelines.
 
 Reader XML
 -----
-The readerXML directory contains the transcription of the reconstructed text. The XML follows TEI guidelines but does not currently have TEI headers. This will be addressed in future revisions of the project.
+The readerXML directory contains the transcription of the reconstructed text. The XML follows TEI guidelines.
 
 Referencing
 -----
